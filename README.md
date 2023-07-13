@@ -13,6 +13,10 @@ Our [Public API](https://developers.tetrascience.com/reference/introduction-1) p
 
 While these APIs provide access to the platform, there exist some common use patterns across customers documented in this repo. Additional use cases can be created by leveraging the APIs in systematic fashions and this repo is designed to get you started using the APIs and give you a sense of what you can accomplish.
 
+Current Examples in this repo:
+
+* [TetraScience Scientific Data Cloud Configuration Report](https://github.com/tetrascience/ts-scientific-data-cloud-api-examples/Examples/TetraScience%20Scientific%20Data%20Cloud%20Configuration%20Report.ipynb)
+
 ## Contribute
 
 We welcome contributions from the community that document the use of our APIs to accelerate scientific workflows. [Here are more details on how to contribute.](https://github.com/tetrascience/ts-scientific-data-cloud-api-examples/Contributing.md)
