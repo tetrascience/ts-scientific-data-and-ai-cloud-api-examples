@@ -20,3 +20,7 @@ Current Examples in this repo:
 ## Contribute
 
 We welcome contributions from the community that document the use of our APIs to accelerate scientific workflows. [Here are more details on how to contribute.](https://github.com/tetrascience/ts-scientific-data-cloud-api-examples/Contributing.md)
+
+## Disclaimer
+
+The example notebooks in this repository are not fully supported product features. They are example use cases to demonstrate the capabilitiy of TetraScience's APIs. You are responsible for any code maintenance and deployment using these examples.
