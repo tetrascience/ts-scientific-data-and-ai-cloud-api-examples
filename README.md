@@ -16,7 +16,7 @@ While these APIs provide access to the platform, there exist some common use pat
 Current Examples in this repo:
 
 * [Loading Authentication File](https://github.com/tetrascience/ts-scientific-data-cloud-api-examples/blob/main/examples/Loading%20Authentication%20File.ipynb)
-* [TetraScience Scientific Data Cloud Configuration Report](https://github.com/tetrascience/ts-scientific-data-cloud-api-examples/Examples/TetraScience%20Scientific%20Data%20Cloud%20Configuration%20Report.ipynb)
+* [TetraScience Scientific Data Cloud Configuration Report](https://github.com/tetrascience/ts-scientific-data-cloud-api-examples/blob/main/examples/TetraScience%20Scientific%20Data%20Cloud%20Configuration%20Report.ipynb)
 * [Migrating Pipelines between Platform Instances](https://github.com/tetrascience/ts-scientific-data-cloud-api-examples/blob/main/examples/Migrating%20Pipelines%20between%20Platform%20Instances.ipynb)
 * [Pulling IDS Data Cubes into Pandas DataFrame (Cytometry Example)](https://github.com/tetrascience/ts-scientific-data-cloud-api-examples/blob/main/examples/Pulling%20IDS%20Data%20Cubes%20into%20Pandas%20DataFrame%20(Cytometry%20Example).ipynb)
 * [Data Synchronization](https://github.com/tetrascience/ts-scientific-data-cloud-api-examples/blob/main/examples/Data%20Synchronization.ipynb)
