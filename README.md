@@ -3,7 +3,7 @@ TetraScience Scientific Data Cloud API Usage Examples
 
 ## Getting started
 
-* Install Python 3.7.x (We recommend using pyenv if you have to work with multiple versions on the same machine.)
+* Install Python 3.8 or higher (We recommend using pyenv if you have to work with multiple versions on the same machine.)
 * Install [Poetry](https://python-poetry.org/docs/) for dependency management and packaging in Python.
 * Install [Jupyter Notebook](https://jupyter.org/install)
 
