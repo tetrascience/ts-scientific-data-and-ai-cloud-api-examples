@@ -27,4 +27,4 @@ We welcome contributions from the community that document the use of our APIs to
 
 ## Disclaimer
 
-The example notebooks in this repository are not fully supported product features. They are example use cases to demonstrate the capabilitiy of TetraScience's APIs. You are responsible for any code maintenance and deployment using these examples.
+The example notebooks in this repository are not fully supported product features. They are example use cases to demonstrate the capabilitiy of TetraScience's APIs. You are responsible for any code maintenance, deployment, and validation using these examples.
