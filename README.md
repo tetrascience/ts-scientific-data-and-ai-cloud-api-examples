@@ -23,7 +23,7 @@ Current Examples in this repo:
 
 ## Contribute
 
-We welcome contributions from the community that document the use of our APIs to accelerate scientific workflows. [Here are more details on how to contribute.](https://github.com/tetrascience/ts-scientific-data-cloud-api-examples/Contributing.md)
+We welcome contributions from the community that document the use of our APIs to accelerate scientific workflows. [Here are more details on how to contribute.](https://github.com/tetrascience/ts-scientific-data-cloud-api-examples/blob/main/Contributing.md)
 
 ## Disclaimer
 
