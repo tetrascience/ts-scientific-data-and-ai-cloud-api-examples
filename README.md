@@ -20,6 +20,7 @@ Current Examples in this repo:
 * [Migrating Pipelines between Platform Instances](https://github.com/tetrascience/ts-scientific-data-cloud-api-examples/blob/main/examples/Migrating%20Pipelines%20between%20Platform%20Instances.ipynb)
 * [Pulling IDS Data Cubes into Pandas DataFrame (Cytometry Example)](https://github.com/tetrascience/ts-scientific-data-cloud-api-examples/blob/main/examples/Pulling%20IDS%20Data%20Cubes%20into%20Pandas%20DataFrame%20(Cytometry%20Example).ipynb)
 * [Data Synchronization](https://github.com/tetrascience/ts-scientific-data-cloud-api-examples/blob/main/examples/Data%20Synchronization.ipynb)
+* [Retrieve IDS Field Descriptions](https://github.com/tetrascience/ts-scientific-data-cloud-api-examples/blob/main/examples/Retrieve%20IDS%20Field%20Descriptions.ipynb)
 * [Querying Chromeleon Data](https://github.com/tetrascience/ts-scientific-data-cloud-api-examples/blob/main/examples/Querying%20Chromeleon%20Data.ipynb)
 
 ## Contribute
