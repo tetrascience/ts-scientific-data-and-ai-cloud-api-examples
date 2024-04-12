@@ -23,6 +23,7 @@ Current Examples in this repo:
 * [Retrieve IDS Field Descriptions](https://github.com/tetrascience/ts-scientific-data-cloud-api-examples/blob/main/examples/Retrieve%20IDS%20Field%20Descriptions.ipynb)
 * [Querying Chromeleon Data](https://github.com/tetrascience/ts-scientific-data-cloud-api-examples/blob/main/examples/Querying%20Chromeleon%20Data.ipynb)
 * [Querying Unicorn Data](https://github.com/tetrascience/ts-scientific-data-cloud-api-examples/blob/main/examples/Querying%20UNICORN%20Data.ipynb)
+* [Finding Pipelines with Available Updates](https://github.com/tetrascience/ts-scientific-data-cloud-api-examples/blob/main/examples/Finding%20Pipelines%20with%20Available%20Updates.ipynb)
 
 ## Contribute
 
