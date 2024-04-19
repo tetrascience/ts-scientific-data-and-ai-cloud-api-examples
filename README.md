@@ -1,5 +1,5 @@
 # ts-scientific-data-cloud-api-examples
-TetraScience Scientific Data Cloud API Usage Examples
+TetraScience Scientific Data and AI Cloud API Usage Examples
 
 ## Getting started
 
