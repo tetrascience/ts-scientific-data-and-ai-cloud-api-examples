@@ -1,0 +1,7278 @@
+{
+  "@idsType": "plate-reader-tecan-magellan",
+  "@idsVersion": "v3.0.0",
+  "@idsNamespace": "common",
+  "@idsConventionVersion": "v1.0.0",
+  "samples": [
+    {
+      "location": {
+        "position": "A1",
+        "row": 1.0,
+        "column": 1.0,
+        "holder": {
+          "type": "[NUN96ft] - Thermo Fisher Scientific-Nunclon 96 Flat Transparent"
+        }
+      },
+      "pk": "019df997-697c-715f-9c99-db76ac2e2774"
+    },
+    {
+      "location": {
+        "position": "A2",
+        "row": 1.0,
+        "column": 2.0,
+        "holder": {
+          "type": "[NUN96ft] - Thermo Fisher Scientific-Nunclon 96 Flat Transparent"
+        }
+      },
+      "pk": "019df997-697c-715f-9c99-db77d06a026f"
+    },
+    {
+      "location": {
+        "position": "A3",
+        "row": 1.0,
+        "column": 3.0,
+        "holder": {
+          "type": "[NUN96ft] - Thermo Fisher Scientific-Nunclon 96 Flat Transparent"
+        }
+      },
+      "pk": "019df997-697c-715f-9c99-db7859bdde5f"
+    },
+    {
+      "location": {
+        "position": "A4",
+        "row": 1.0,
+        "column": 4.0,
+        "holder": {
+          "type": "[NUN96ft] - Thermo Fisher Scientific-Nunclon 96 Flat Transparent"
+        }
+      },
+      "pk": "019df997-697c-715f-9c99-db79dcff8acb"
+    },
+    {
+      "location": {
+        "position": "A5",
+        "row": 1.0,
+        "column": 5.0,
+        "holder": {
+          "type": "[NUN96ft] - Thermo Fisher Scientific-Nunclon 96 Flat Transparent"
+        }
+      },
+      "pk": "019df997-697c-715f-9c99-db7ae36a8a3f"
+    },
+    {
+      "location": {
+        "position": "A6",
+        "row": 1.0,
+        "column": 6.0,
+        "holder": {
+          "type": "[NUN96ft] - Thermo Fisher Scientific-Nunclon 96 Flat Transparent"
+        }
+      },
+      "pk": "019df997-697c-715f-9c99-db7be1bbff49"
+    },
+    {
+      "location": {
+        "position": "A7",
+        "row": 1.0,
+        "column": 7.0,
+        "holder": {
+          "type": "[NUN96ft] - Thermo Fisher Scientific-Nunclon 96 Flat Transparent"
+        }
+      },
+      "pk": "019df997-697d-721b-9f74-dac394fb5a8f"
+    },
+    {
+      "location": {
+        "position": "A8",
+        "row": 1.0,
+        "column": 8.0,
+        "holder": {
+          "type": "[NUN96ft] - Thermo Fisher Scientific-Nunclon 96 Flat Transparent"
+        }
+      },
+      "pk": "019df997-697d-721b-9f74-dac4b9e29c1a"
+    },
+    {
+      "location": {
+        "position": "A9",
+        "row": 1.0,
+        "column": 9.0,
+        "holder": {
+          "type": "[NUN96ft] - Thermo Fisher Scientific-Nunclon 96 Flat Transparent"
+        }
+      },
+      "pk": "019df997-697d-721b-9f74-dac574867817"
+    },
+    {
+      "location": {
+        "position": "A10",
+        "row": 1.0,
+        "column": 10.0,
+        "holder": {
+          "type": "[NUN96ft] - Thermo Fisher Scientific-Nunclon 96 Flat Transparent"
+        }
+      },
+      "pk": "019df997-697d-721b-9f74-dac60343f897"
+    },
+    {
+      "location": {
+        "position": "A11",
+        "row": 1.0,
+        "column": 11.0,
+        "holder": {
+          "type": "[NUN96ft] - Thermo Fisher Scientific-Nunclon 96 Flat Transparent"
+        }
+      },
+      "pk": "019df997-697d-721b-9f74-dac783b9efcc"
+    },
+    {
+      "location": {
+        "position": "A12",
+        "row": 1.0,
+        "column": 12.0,
+        "holder": {
+          "type": "[NUN96ft] - Thermo Fisher Scientific-Nunclon 96 Flat Transparent"
+        }
+      },
+      "pk": "019df997-697d-721b-9f74-dac847c53cbf"
+    },
+    {
+      "location": {
+        "position": "B1",
+        "row": 2.0,
+        "column": 1.0,
+        "holder": {
+          "type": "[NUN96ft] - Thermo Fisher Scientific-Nunclon 96 Flat Transparent"
+        }
+      },
+      "pk": "019df997-697d-721b-9f74-dac9e8dfc8fe"
+    },
+    {
+      "location": {
+        "position": "B2",
+        "row": 2.0,
+        "column": 2.0,
+        "holder": {
+          "type": "[NUN96ft] - Thermo Fisher Scientific-Nunclon 96 Flat Transparent"
+        }
+      },
+      "pk": "019df997-697d-721b-9f74-dacaf4239bde"
+    },
+    {
+      "location": {
+        "position": "B3",
+        "row": 2.0,
+        "column": 3.0,
+        "holder": {
+          "type": "[NUN96ft] - Thermo Fisher Scientific-Nunclon 96 Flat Transparent"
+        }
+      },
+      "pk": "019df997-697d-721b-9f74-dacb5ed0b9eb"
+    },
+    {
+      "location": {
+        "position": "B4",
+        "row": 2.0,
+        "column": 4.0,
+        "holder": {
+          "type": "[NUN96ft] - Thermo Fisher Scientific-Nunclon 96 Flat Transparent"
+        }
+      },
+      "pk": "019df997-697e-77a5-b813-ed37df9b68cd"
+    },
+    {
+      "location": {
+        "position": "B5",
+        "row": 2.0,
+        "column": 5.0,
+        "holder": {
+          "type": "[NUN96ft] - Thermo Fisher Scientific-Nunclon 96 Flat Transparent"
+        }
+      },
+      "pk": "019df997-697e-77a5-b813-ed3853df8306"
+    },
+    {
+      "location": {
+        "position": "B6",
+        "row": 2.0,
+        "column": 6.0,
+        "holder": {
+          "type": "[NUN96ft] - Thermo Fisher Scientific-Nunclon 96 Flat Transparent"
+        }
+      },
+      "pk": "019df997-697e-77a5-b813-ed3992cf6dc8"
+    },
+    {
+      "location": {
+        "position": "B7",
+        "row": 2.0,
+        "column": 7.0,
+        "holder": {
+          "type": "[NUN96ft] - Thermo Fisher Scientific-Nunclon 96 Flat Transparent"
+        }
+      },
+      "pk": "019df997-697e-77a5-b813-ed3abcf6b793"
+    },
+    {
+      "location": {
+        "position": "B8",
+        "row": 2.0,
+        "column": 8.0,
+        "holder": {
+          "type": "[NUN96ft] - Thermo Fisher Scientific-Nunclon 96 Flat Transparent"
+        }
+      },
+      "pk": "019df997-697e-77a5-b813-ed3b1ea4fcef"
+    },
+    {
+      "location": {
+        "position": "B9",
+        "row": 2.0,
+        "column": 9.0,
+        "holder": {
+          "type": "[NUN96ft] - Thermo Fisher Scientific-Nunclon 96 Flat Transparent"
+        }
+      },
+      "pk": "019df997-697e-77a5-b813-ed3c01c91a6f"
+    },
+    {
+      "location": {
+        "position": "B10",
+        "row": 2.0,
+        "column": 10.0,
+        "holder": {
+          "type": "[NUN96ft] - Thermo Fisher Scientific-Nunclon 96 Flat Transparent"
+        }
+      },
+      "pk": "019df997-697e-77a5-b813-ed3df1a697fe"
+    },
+    {
+      "location": {
+        "position": "B11",
+        "row": 2.0,
+        "column": 11.0,
+        "holder": {
+          "type": "[NUN96ft] - Thermo Fisher Scientific-Nunclon 96 Flat Transparent"
+        }
+      },
+      "pk": "019df997-697e-77a5-b813-ed3eec5ab80d"
+    },
+    {
+      "location": {
+        "position": "B12",
+        "row": 2.0,
+        "column": 12.0,
+        "holder": {
+          "type": "[NUN96ft] - Thermo Fisher Scientific-Nunclon 96 Flat Transparent"
+        }
+      },
+      "pk": "019df997-697f-709b-8548-efc6c611872d"
+    },
+    {
+      "location": {
+        "position": "C1",
+        "row": 3.0,
+        "column": 1.0,
+        "holder": {
+          "type": "[NUN96ft] - Thermo Fisher Scientific-Nunclon 96 Flat Transparent"
+        }
+      },
+      "pk": "019df997-697f-709b-8548-efc76d1800f6"
+    },
+    {
+      "location": {
+        "position": "C2",
+        "row": 3.0,
+        "column": 2.0,
+        "holder": {
+          "type": "[NUN96ft] - Thermo Fisher Scientific-Nunclon 96 Flat Transparent"
+        }
+      },
+      "pk": "019df997-697f-709b-8548-efc8ed909e79"
+    },
+    {
+      "location": {
+        "position": "C3",
+        "row": 3.0,
+        "column": 3.0,
+        "holder": {
+          "type": "[NUN96ft] - Thermo Fisher Scientific-Nunclon 96 Flat Transparent"
+        }
+      },
+      "pk": "019df997-697f-709b-8548-efc9dcc49ccb"
+    },
+    {
+      "location": {
+        "position": "C4",
+        "row": 3.0,
+        "column": 4.0,
+        "holder": {
+          "type": "[NUN96ft] - Thermo Fisher Scientific-Nunclon 96 Flat Transparent"
+        }
+      },
+      "pk": "019df997-697f-709b-8548-efca295a3bf9"
+    },
+    {
+      "location": {
+        "position": "C5",
+        "row": 3.0,
+        "column": 5.0,
+        "holder": {
+          "type": "[NUN96ft] - Thermo Fisher Scientific-Nunclon 96 Flat Transparent"
+        }
+      },
+      "pk": "019df997-697f-709b-8548-efcbf6fae02c"
+    },
+    {
+      "location": {
+        "position": "C6",
+        "row": 3.0,
+        "column": 6.0,
+        "holder": {
+          "type": "[NUN96ft] - Thermo Fisher Scientific-Nunclon 96 Flat Transparent"
+        }
+      },
+      "pk": "019df997-697f-709b-8548-efcc461ef5f8"
+    },
+    {
+      "location": {
+        "position": "C7",
+        "row": 3.0,
+        "column": 7.0,
+        "holder": {
+          "type": "[NUN96ft] - Thermo Fisher Scientific-Nunclon 96 Flat Transparent"
+        }
+      },
+      "pk": "019df997-697f-709b-8548-efcd0fa3b089"
+    },
+    {
+      "location": {
+        "position": "C8",
+        "row": 3.0,
+        "column": 8.0,
+        "holder": {
+          "type": "[NUN96ft] - Thermo Fisher Scientific-Nunclon 96 Flat Transparent"
+        }
+      },
+      "pk": "019df997-697f-709b-8548-efce2c90dc4c"
+    },
+    {
+      "location": {
+        "position": "C9",
+        "row": 3.0,
+        "column": 9.0,
+        "holder": {
+          "type": "[NUN96ft] - Thermo Fisher Scientific-Nunclon 96 Flat Transparent"
+        }
+      },
+      "pk": "019df997-6980-73bb-a141-e7c3547cf24f"
+    },
+    {
+      "location": {
+        "position": "C10",
+        "row": 3.0,
+        "column": 10.0,
+        "holder": {
+          "type": "[NUN96ft] - Thermo Fisher Scientific-Nunclon 96 Flat Transparent"
+        }
+      },
+      "pk": "019df997-6980-73bb-a141-e7c4e60c87ec"
+    },
+    {
+      "location": {
+        "position": "C11",
+        "row": 3.0,
+        "column": 11.0,
+        "holder": {
+          "type": "[NUN96ft] - Thermo Fisher Scientific-Nunclon 96 Flat Transparent"
+        }
+      },
+      "pk": "019df997-6980-73bb-a141-e7c5b121687b"
+    },
+    {
+      "location": {
+        "position": "C12",
+        "row": 3.0,
+        "column": 12.0,
+        "holder": {
+          "type": "[NUN96ft] - Thermo Fisher Scientific-Nunclon 96 Flat Transparent"
+        }
+      },
+      "pk": "019df997-6980-73bb-a141-e7c61b7d08e1"
+    },
+    {
+      "location": {
+        "position": "D1",
+        "row": 4.0,
+        "column": 1.0,
+        "holder": {
+          "type": "[NUN96ft] - Thermo Fisher Scientific-Nunclon 96 Flat Transparent"
+        }
+      },
+      "pk": "019df997-6980-73bb-a141-e7c7a33e44bd"
+    },
+    {
+      "location": {
+        "position": "D2",
+        "row": 4.0,
+        "column": 2.0,
+        "holder": {
+          "type": "[NUN96ft] - Thermo Fisher Scientific-Nunclon 96 Flat Transparent"
+        }
+      },
+      "pk": "019df997-6980-73bb-a141-e7c83a0201c2"
+    },
+    {
+      "location": {
+        "position": "D3",
+        "row": 4.0,
+        "column": 3.0,
+        "holder": {
+          "type": "[NUN96ft] - Thermo Fisher Scientific-Nunclon 96 Flat Transparent"
+        }
+      },
+      "pk": "019df997-6980-73bb-a141-e7c96a97c567"
+    },
+    {
+      "location": {
+        "position": "D4",
+        "row": 4.0,
+        "column": 4.0,
+        "holder": {
+          "type": "[NUN96ft] - Thermo Fisher Scientific-Nunclon 96 Flat Transparent"
+        }
+      },
+      "pk": "019df997-6980-73bb-a141-e7cade85f07e"
+    },
+    {
+      "location": {
+        "position": "D5",
+        "row": 4.0,
+        "column": 5.0,
+        "holder": {
+          "type": "[NUN96ft] - Thermo Fisher Scientific-Nunclon 96 Flat Transparent"
+        }
+      },
+      "pk": "019df997-6980-73bb-a141-e7cb64cb8723"
+    },
+    {
+      "location": {
+        "position": "D6",
+        "row": 4.0,
+        "column": 6.0,
+        "holder": {
+          "type": "[NUN96ft] - Thermo Fisher Scientific-Nunclon 96 Flat Transparent"
+        }
+      },
+      "pk": "019df997-6980-73bb-a141-e7cc3055a69f"
+    },
+    {
+      "location": {
+        "position": "D7",
+        "row": 4.0,
+        "column": 7.0,
+        "holder": {
+          "type": "[NUN96ft] - Thermo Fisher Scientific-Nunclon 96 Flat Transparent"
+        }
+      },
+      "pk": "019df997-6980-73bb-a141-e7cdf707adf0"
+    },
+    {
+      "location": {
+        "position": "D8",
+        "row": 4.0,
+        "column": 8.0,
+        "holder": {
+          "type": "[NUN96ft] - Thermo Fisher Scientific-Nunclon 96 Flat Transparent"
+        }
+      },
+      "pk": "019df997-6981-7588-b3b0-eeaff7f34e4a"
+    },
+    {
+      "location": {
+        "position": "D9",
+        "row": 4.0,
+        "column": 9.0,
+        "holder": {
+          "type": "[NUN96ft] - Thermo Fisher Scientific-Nunclon 96 Flat Transparent"
+        }
+      },
+      "pk": "019df997-6981-7588-b3b0-eeb035f7b927"
+    },
+    {
+      "location": {
+        "position": "D10",
+        "row": 4.0,
+        "column": 10.0,
+        "holder": {
+          "type": "[NUN96ft] - Thermo Fisher Scientific-Nunclon 96 Flat Transparent"
+        }
+      },
+      "pk": "019df997-6981-7588-b3b0-eeb1107c26a9"
+    },
+    {
+      "location": {
+        "position": "D11",
+        "row": 4.0,
+        "column": 11.0,
+        "holder": {
+          "type": "[NUN96ft] - Thermo Fisher Scientific-Nunclon 96 Flat Transparent"
+        }
+      },
+      "pk": "019df997-6981-7588-b3b0-eeb2d8973cae"
+    },
+    {
+      "location": {
+        "position": "D12",
+        "row": 4.0,
+        "column": 12.0,
+        "holder": {
+          "type": "[NUN96ft] - Thermo Fisher Scientific-Nunclon 96 Flat Transparent"
+        }
+      },
+      "pk": "019df997-6981-7588-b3b0-eeb3754ad596"
+    },
+    {
+      "location": {
+        "position": "E1",
+        "row": 5.0,
+        "column": 1.0,
+        "holder": {
+          "type": "[NUN96ft] - Thermo Fisher Scientific-Nunclon 96 Flat Transparent"
+        }
+      },
+      "pk": "019df997-6981-7588-b3b0-eeb433cb6683"
+    },
+    {
+      "location": {
+        "position": "E2",
+        "row": 5.0,
+        "column": 2.0,
+        "holder": {
+          "type": "[NUN96ft] - Thermo Fisher Scientific-Nunclon 96 Flat Transparent"
+        }
+      },
+      "pk": "019df997-6981-7588-b3b0-eeb549d0e778"
+    },
+    {
+      "location": {
+        "position": "E3",
+        "row": 5.0,
+        "column": 3.0,
+        "holder": {
+          "type": "[NUN96ft] - Thermo Fisher Scientific-Nunclon 96 Flat Transparent"
+        }
+      },
+      "pk": "019df997-6981-7588-b3b0-eeb674a5a1a3"
+    },
+    {
+      "location": {
+        "position": "E4",
+        "row": 5.0,
+        "column": 4.0,
+        "holder": {
+          "type": "[NUN96ft] - Thermo Fisher Scientific-Nunclon 96 Flat Transparent"
+        }
+      },
+      "pk": "019df997-6981-7588-b3b0-eeb77378e881"
+    },
+    {
+      "location": {
+        "position": "E5",
+        "row": 5.0,
+        "column": 5.0,
+        "holder": {
+          "type": "[NUN96ft] - Thermo Fisher Scientific-Nunclon 96 Flat Transparent"
+        }
+      },
+      "pk": "019df997-6981-7588-b3b0-eeb8a9e812d7"
+    },
+    {
+      "location": {
+        "position": "E6",
+        "row": 5.0,
+        "column": 6.0,
+        "holder": {
+          "type": "[NUN96ft] - Thermo Fisher Scientific-Nunclon 96 Flat Transparent"
+        }
+      },
+      "pk": "019df997-6981-7588-b3b0-eeb9215898ee"
+    },
+    {
+      "location": {
+        "position": "E7",
+        "row": 5.0,
+        "column": 7.0,
+        "holder": {
+          "type": "[NUN96ft] - Thermo Fisher Scientific-Nunclon 96 Flat Transparent"
+        }
+      },
+      "pk": "019df997-6981-7588-b3b0-eeba8c95e782"
+    },
+    {
+      "location": {
+        "position": "E8",
+        "row": 5.0,
+        "column": 8.0,
+        "holder": {
+          "type": "[NUN96ft] - Thermo Fisher Scientific-Nunclon 96 Flat Transparent"
+        }
+      },
+      "pk": "019df997-6982-7329-bc7b-91e4dd6e8178"
+    },
+    {
+      "location": {
+        "position": "E9",
+        "row": 5.0,
+        "column": 9.0,
+        "holder": {
+          "type": "[NUN96ft] - Thermo Fisher Scientific-Nunclon 96 Flat Transparent"
+        }
+      },
+      "pk": "019df997-6982-7329-bc7b-91e5ec29baf7"
+    },
+    {
+      "location": {
+        "position": "E10",
+        "row": 5.0,
+        "column": 10.0,
+        "holder": {
+          "type": "[NUN96ft] - Thermo Fisher Scientific-Nunclon 96 Flat Transparent"
+        }
+      },
+      "pk": "019df997-6982-7329-bc7b-91e6776304b9"
+    },
+    {
+      "location": {
+        "position": "E11",
+        "row": 5.0,
+        "column": 11.0,
+        "holder": {
+          "type": "[NUN96ft] - Thermo Fisher Scientific-Nunclon 96 Flat Transparent"
+        }
+      },
+      "pk": "019df997-6982-7329-bc7b-91e7c1e9d9e0"
+    },
+    {
+      "location": {
+        "position": "E12",
+        "row": 5.0,
+        "column": 12.0,
+        "holder": {
+          "type": "[NUN96ft] - Thermo Fisher Scientific-Nunclon 96 Flat Transparent"
+        }
+      },
+      "pk": "019df997-6982-7329-bc7b-91e8e91a51cf"
+    },
+    {
+      "location": {
+        "position": "F1",
+        "row": 6.0,
+        "column": 1.0,
+        "holder": {
+          "type": "[NUN96ft] - Thermo Fisher Scientific-Nunclon 96 Flat Transparent"
+        }
+      },
+      "pk": "019df997-6982-7329-bc7b-91e9f3164d4c"
+    },
+    {
+      "location": {
+        "position": "F2",
+        "row": 6.0,
+        "column": 2.0,
+        "holder": {
+          "type": "[NUN96ft] - Thermo Fisher Scientific-Nunclon 96 Flat Transparent"
+        }
+      },
+      "pk": "019df997-6982-7329-bc7b-91eabeb49a5e"
+    },
+    {
+      "location": {
+        "position": "F3",
+        "row": 6.0,
+        "column": 3.0,
+        "holder": {
+          "type": "[NUN96ft] - Thermo Fisher Scientific-Nunclon 96 Flat Transparent"
+        }
+      },
+      "pk": "019df997-6982-7329-bc7b-91eba9c27541"
+    },
+    {
+      "location": {
+        "position": "F4",
+        "row": 6.0,
+        "column": 4.0,
+        "holder": {
+          "type": "[NUN96ft] - Thermo Fisher Scientific-Nunclon 96 Flat Transparent"
+        }
+      },
+      "pk": "019df997-6982-7329-bc7b-91ec280d84c5"
+    },
+    {
+      "location": {
+        "position": "F5",
+        "row": 6.0,
+        "column": 5.0,
+        "holder": {
+          "type": "[NUN96ft] - Thermo Fisher Scientific-Nunclon 96 Flat Transparent"
+        }
+      },
+      "pk": "019df997-6982-7329-bc7b-91eda3f0fd1d"
+    },
+    {
+      "location": {
+        "position": "F6",
+        "row": 6.0,
+        "column": 6.0,
+        "holder": {
+          "type": "[NUN96ft] - Thermo Fisher Scientific-Nunclon 96 Flat Transparent"
+        }
+      },
+      "pk": "019df997-6982-7329-bc7b-91eebbcc8103"
+    },
+    {
+      "location": {
+        "position": "F7",
+        "row": 6.0,
+        "column": 7.0,
+        "holder": {
+          "type": "[NUN96ft] - Thermo Fisher Scientific-Nunclon 96 Flat Transparent"
+        }
+      },
+      "pk": "019df997-6983-774a-b02f-ebbd81839ed1"
+    },
+    {
+      "location": {
+        "position": "F8",
+        "row": 6.0,
+        "column": 8.0,
+        "holder": {
+          "type": "[NUN96ft] - Thermo Fisher Scientific-Nunclon 96 Flat Transparent"
+        }
+      },
+      "pk": "019df997-6983-774a-b02f-ebbe86c3f5b1"
+    },
+    {
+      "location": {
+        "position": "F9",
+        "row": 6.0,
+        "column": 9.0,
+        "holder": {
+          "type": "[NUN96ft] - Thermo Fisher Scientific-Nunclon 96 Flat Transparent"
+        }
+      },
+      "pk": "019df997-6983-774a-b02f-ebbf9801958a"
+    },
+    {
+      "location": {
+        "position": "F10",
+        "row": 6.0,
+        "column": 10.0,
+        "holder": {
+          "type": "[NUN96ft] - Thermo Fisher Scientific-Nunclon 96 Flat Transparent"
+        }
+      },
+      "pk": "019df997-6983-774a-b02f-ebc0004d5c0f"
+    },
+    {
+      "location": {
+        "position": "F11",
+        "row": 6.0,
+        "column": 11.0,
+        "holder": {
+          "type": "[NUN96ft] - Thermo Fisher Scientific-Nunclon 96 Flat Transparent"
+        }
+      },
+      "pk": "019df997-6983-774a-b02f-ebc14d0deb6f"
+    },
+    {
+      "location": {
+        "position": "F12",
+        "row": 6.0,
+        "column": 12.0,
+        "holder": {
+          "type": "[NUN96ft] - Thermo Fisher Scientific-Nunclon 96 Flat Transparent"
+        }
+      },
+      "pk": "019df997-6983-774a-b02f-ebc2d9eba953"
+    },
+    {
+      "location": {
+        "position": "G1",
+        "row": 7.0,
+        "column": 1.0,
+        "holder": {
+          "type": "[NUN96ft] - Thermo Fisher Scientific-Nunclon 96 Flat Transparent"
+        }
+      },
+      "pk": "019df997-6983-774a-b02f-ebc307e60508"
+    },
+    {
+      "location": {
+        "position": "G2",
+        "row": 7.0,
+        "column": 2.0,
+        "holder": {
+          "type": "[NUN96ft] - Thermo Fisher Scientific-Nunclon 96 Flat Transparent"
+        }
+      },
+      "pk": "019df997-6983-774a-b02f-ebc481f0b306"
+    },
+    {
+      "location": {
+        "position": "G3",
+        "row": 7.0,
+        "column": 3.0,
+        "holder": {
+          "type": "[NUN96ft] - Thermo Fisher Scientific-Nunclon 96 Flat Transparent"
+        }
+      },
+      "pk": "019df997-6983-774a-b02f-ebc5bce6d3ee"
+    },
+    {
+      "location": {
+        "position": "G4",
+        "row": 7.0,
+        "column": 4.0,
+        "holder": {
+          "type": "[NUN96ft] - Thermo Fisher Scientific-Nunclon 96 Flat Transparent"
+        }
+      },
+      "pk": "019df997-6983-774a-b02f-ebc6fb7244fc"
+    },
+    {
+      "location": {
+        "position": "G5",
+        "row": 7.0,
+        "column": 5.0,
+        "holder": {
+          "type": "[NUN96ft] - Thermo Fisher Scientific-Nunclon 96 Flat Transparent"
+        }
+      },
+      "pk": "019df997-6984-7771-b7fb-bdfaf1a2ece0"
+    },
+    {
+      "location": {
+        "position": "G6",
+        "row": 7.0,
+        "column": 6.0,
+        "holder": {
+          "type": "[NUN96ft] - Thermo Fisher Scientific-Nunclon 96 Flat Transparent"
+        }
+      },
+      "pk": "019df997-6984-7771-b7fb-bdfb0a2e0798"
+    },
+    {
+      "location": {
+        "position": "G7",
+        "row": 7.0,
+        "column": 7.0,
+        "holder": {
+          "type": "[NUN96ft] - Thermo Fisher Scientific-Nunclon 96 Flat Transparent"
+        }
+      },
+      "pk": "019df997-6984-7771-b7fb-bdfc84bedfe3"
+    },
+    {
+      "location": {
+        "position": "G8",
+        "row": 7.0,
+        "column": 8.0,
+        "holder": {
+          "type": "[NUN96ft] - Thermo Fisher Scientific-Nunclon 96 Flat Transparent"
+        }
+      },
+      "pk": "019df997-6984-7771-b7fb-bdfd67cc3a9a"
+    },
+    {
+      "location": {
+        "position": "G9",
+        "row": 7.0,
+        "column": 9.0,
+        "holder": {
+          "type": "[NUN96ft] - Thermo Fisher Scientific-Nunclon 96 Flat Transparent"
+        }
+      },
+      "pk": "019df997-6984-7771-b7fb-bdfe74c98a0f"
+    },
+    {
+      "location": {
+        "position": "G10",
+        "row": 7.0,
+        "column": 10.0,
+        "holder": {
+          "type": "[NUN96ft] - Thermo Fisher Scientific-Nunclon 96 Flat Transparent"
+        }
+      },
+      "pk": "019df997-6984-7771-b7fb-bdffa728c944"
+    },
+    {
+      "location": {
+        "position": "G11",
+        "row": 7.0,
+        "column": 11.0,
+        "holder": {
+          "type": "[NUN96ft] - Thermo Fisher Scientific-Nunclon 96 Flat Transparent"
+        }
+      },
+      "pk": "019df997-6984-7771-b7fb-be00193cfca0"
+    },
+    {
+      "location": {
+        "position": "G12",
+        "row": 7.0,
+        "column": 12.0,
+        "holder": {
+          "type": "[NUN96ft] - Thermo Fisher Scientific-Nunclon 96 Flat Transparent"
+        }
+      },
+      "pk": "019df997-6984-7771-b7fb-be01da89c54b"
+    },
+    {
+      "location": {
+        "position": "H1",
+        "row": 8.0,
+        "column": 1.0,
+        "holder": {
+          "type": "[NUN96ft] - Thermo Fisher Scientific-Nunclon 96 Flat Transparent"
+        }
+      },
+      "pk": "019df997-6984-7771-b7fb-be02e1b6092b"
+    },
+    {
+      "location": {
+        "position": "H2",
+        "row": 8.0,
+        "column": 2.0,
+        "holder": {
+          "type": "[NUN96ft] - Thermo Fisher Scientific-Nunclon 96 Flat Transparent"
+        }
+      },
+      "pk": "019df997-6984-7771-b7fb-be03a36692b3"
+    },
+    {
+      "location": {
+        "position": "H3",
+        "row": 8.0,
+        "column": 3.0,
+        "holder": {
+          "type": "[NUN96ft] - Thermo Fisher Scientific-Nunclon 96 Flat Transparent"
+        }
+      },
+      "pk": "019df997-6984-7771-b7fb-be047f57fc34"
+    },
+    {
+      "location": {
+        "position": "H4",
+        "row": 8.0,
+        "column": 4.0,
+        "holder": {
+          "type": "[NUN96ft] - Thermo Fisher Scientific-Nunclon 96 Flat Transparent"
+        }
+      },
+      "pk": "019df997-6984-7771-b7fb-be052746a82f"
+    },
+    {
+      "location": {
+        "position": "H5",
+        "row": 8.0,
+        "column": 5.0,
+        "holder": {
+          "type": "[NUN96ft] - Thermo Fisher Scientific-Nunclon 96 Flat Transparent"
+        }
+      },
+      "pk": "019df997-6985-7118-aa69-17b90127ae00"
+    },
+    {
+      "location": {
+        "position": "H6",
+        "row": 8.0,
+        "column": 6.0,
+        "holder": {
+          "type": "[NUN96ft] - Thermo Fisher Scientific-Nunclon 96 Flat Transparent"
+        }
+      },
+      "pk": "019df997-6985-7118-aa69-17ba6ba9ed7c"
+    },
+    {
+      "location": {
+        "position": "H7",
+        "row": 8.0,
+        "column": 7.0,
+        "holder": {
+          "type": "[NUN96ft] - Thermo Fisher Scientific-Nunclon 96 Flat Transparent"
+        }
+      },
+      "pk": "019df997-6985-7118-aa69-17bb098348af"
+    },
+    {
+      "location": {
+        "position": "H8",
+        "row": 8.0,
+        "column": 8.0,
+        "holder": {
+          "type": "[NUN96ft] - Thermo Fisher Scientific-Nunclon 96 Flat Transparent"
+        }
+      },
+      "pk": "019df997-6985-7118-aa69-17bccfb09178"
+    },
+    {
+      "location": {
+        "position": "H9",
+        "row": 8.0,
+        "column": 9.0,
+        "holder": {
+          "type": "[NUN96ft] - Thermo Fisher Scientific-Nunclon 96 Flat Transparent"
+        }
+      },
+      "pk": "019df997-6985-7118-aa69-17bd2e5b3b54"
+    },
+    {
+      "location": {
+        "position": "H10",
+        "row": 8.0,
+        "column": 10.0,
+        "holder": {
+          "type": "[NUN96ft] - Thermo Fisher Scientific-Nunclon 96 Flat Transparent"
+        }
+      },
+      "pk": "019df997-6985-7118-aa69-17be0cbc73ac"
+    },
+    {
+      "location": {
+        "position": "H11",
+        "row": 8.0,
+        "column": 11.0,
+        "holder": {
+          "type": "[NUN96ft] - Thermo Fisher Scientific-Nunclon 96 Flat Transparent"
+        }
+      },
+      "pk": "019df997-6985-7118-aa69-17bf53e3a081"
+    },
+    {
+      "location": {
+        "position": "H12",
+        "row": 8.0,
+        "column": 12.0,
+        "holder": {
+          "type": "[NUN96ft] - Thermo Fisher Scientific-Nunclon 96 Flat Transparent"
+        }
+      },
+      "pk": "019df997-6985-7118-aa69-17c0e07d9eac"
+    }
+  ],
+  "systems": [
+    {
+      "serial_number": "TSyn-SN-000001",
+      "vendor": "Tecan",
+      "model": "infinite 200Pro",
+      "type": "Plate Reader"
+    }
+  ],
+  "users": [
+    {
+      "name": "Unknown user"
+    }
+  ],
+  "runs": [
+    {
+      "workspace": {
+        "name": "TSynPlate_TSynRun.wsp",
+        "file_path": "/data/TSynExample-lab/TSynPlate_TSynRun.wsp"
+      },
+      "time": {
+        "acquired": "2025-01-01T12:00:00",
+        "raw": {
+          "acquired": "2025-01-01 12:00:00"
+        }
+      },
+      "holder": {
+        "type": "[NUN96ft] - Thermo Fisher Scientific-Nunclon 96 Flat Transparent",
+        "layout": null,
+        "area": "A1:H12"
+      }
+    }
+  ],
+  "methods": [
+    {
+      "pk": "019df997-697a-73ab-b355-359e71d4b3a2",
+      "name": "TSynMethod.mth",
+      "file_path": "/data/TSynExample-lab/mth/TSynMethod.mth",
+      "measurement_settings": [
+        {
+          "pk": "019df997-6979-7277-9dbb-171d45a87398",
+          "index": 0,
+          "type": "Absorbance",
+          "label": "UV260",
+          "detection": {
+            "type": "filter",
+            "wavelength": {
+              "value": 260.0,
+              "unit": "Nanometer"
+            }
+          }
+        },
+        {
+          "pk": "019df997-697a-73ab-b355-359d46420871",
+          "index": 1,
+          "type": "Absorbance",
+          "label": "UV280",
+          "detection": {
+            "type": "filter",
+            "wavelength": {
+              "value": 280.0,
+              "unit": "Nanometer"
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "datacubes": [
+    {
+      "name": "Measurement Data: A1",
+      "measures": [
+        {
+          "name": "UV260",
+          "unit": "ArbitraryUnit",
+          "value": [
+            [
+              2.9312
+            ]
+          ]
+        }
+      ],
+      "dimensions": [
+        {
+          "name": "time",
+          "unit": "SecondTime",
+          "scale": [
+            0.0
+          ]
+        },
+        {
+          "name": "wavelength",
+          "unit": "Nanometer",
+          "scale": [
+            260.0
+          ]
+        }
+      ],
+      "fk_method": "019df997-697a-73ab-b355-359e71d4b3a2",
+      "fk_sample": "019df997-697c-715f-9c99-db76ac2e2774"
+    },
+    {
+      "name": "Measurement Data: A1",
+      "measures": [
+        {
+          "name": "UV280",
+          "unit": "ArbitraryUnit",
+          "value": [
+            [
+              1.4737
+            ]
+          ]
+        }
+      ],
+      "dimensions": [
+        {
+          "name": "time",
+          "unit": "SecondTime",
+          "scale": [
+            0.0
+          ]
+        },
+        {
+          "name": "wavelength",
+          "unit": "Nanometer",
+          "scale": [
+            280.0
+          ]
+        }
+      ],
+      "fk_method": "019df997-697a-73ab-b355-359e71d4b3a2",
+      "fk_sample": "019df997-697c-715f-9c99-db76ac2e2774"
+    },
+    {
+      "name": "Measurement Data: A2",
+      "measures": [
+        {
+          "name": "UV260",
+          "unit": "ArbitraryUnit",
+          "value": [
+            [
+              2.982
+            ]
+          ]
+        }
+      ],
+      "dimensions": [
+        {
+          "name": "time",
+          "unit": "SecondTime",
+          "scale": [
+            0.0
+          ]
+        },
+        {
+          "name": "wavelength",
+          "unit": "Nanometer",
+          "scale": [
+            260.0
+          ]
+        }
+      ],
+      "fk_method": "019df997-697a-73ab-b355-359e71d4b3a2",
+      "fk_sample": "019df997-697c-715f-9c99-db77d06a026f"
+    },
+    {
+      "name": "Measurement Data: A2",
+      "measures": [
+        {
+          "name": "UV280",
+          "unit": "ArbitraryUnit",
+          "value": [
+            [
+              1.5253
+            ]
+          ]
+        }
+      ],
+      "dimensions": [
+        {
+          "name": "time",
+          "unit": "SecondTime",
+          "scale": [
+            0.0
+          ]
+        },
+        {
+          "name": "wavelength",
+          "unit": "Nanometer",
+          "scale": [
+            280.0
+          ]
+        }
+      ],
+      "fk_method": "019df997-697a-73ab-b355-359e71d4b3a2",
+      "fk_sample": "019df997-697c-715f-9c99-db77d06a026f"
+    },
+    {
+      "name": "Measurement Data: A3",
+      "measures": [
+        {
+          "name": "UV260",
+          "unit": "ArbitraryUnit",
+          "value": [
+            [
+              3.0133
+            ]
+          ]
+        }
+      ],
+      "dimensions": [
+        {
+          "name": "time",
+          "unit": "SecondTime",
+          "scale": [
+            0.0
+          ]
+        },
+        {
+          "name": "wavelength",
+          "unit": "Nanometer",
+          "scale": [
+            260.0
+          ]
+        }
+      ],
+      "fk_method": "019df997-697a-73ab-b355-359e71d4b3a2",
+      "fk_sample": "019df997-697c-715f-9c99-db7859bdde5f"
+    },
+    {
+      "name": "Measurement Data: A3",
+      "measures": [
+        {
+          "name": "UV280",
+          "unit": "ArbitraryUnit",
+          "value": [
+            [
+              1.9516
+            ]
+          ]
+        }
+      ],
+      "dimensions": [
+        {
+          "name": "time",
+          "unit": "SecondTime",
+          "scale": [
+            0.0
+          ]
+        },
+        {
+          "name": "wavelength",
+          "unit": "Nanometer",
+          "scale": [
+            280.0
+          ]
+        }
+      ],
+      "fk_method": "019df997-697a-73ab-b355-359e71d4b3a2",
+      "fk_sample": "019df997-697c-715f-9c99-db7859bdde5f"
+    },
+    {
+      "name": "Measurement Data: A4",
+      "measures": [
+        {
+          "name": "UV260",
+          "unit": "ArbitraryUnit",
+          "value": [
+            [
+              3.0119
+            ]
+          ]
+        }
+      ],
+      "dimensions": [
+        {
+          "name": "time",
+          "unit": "SecondTime",
+          "scale": [
+            0.0
+          ]
+        },
+        {
+          "name": "wavelength",
+          "unit": "Nanometer",
+          "scale": [
+            260.0
+          ]
+        }
+      ],
+      "fk_method": "019df997-697a-73ab-b355-359e71d4b3a2",
+      "fk_sample": "019df997-697c-715f-9c99-db79dcff8acb"
+    },
+    {
+      "name": "Measurement Data: A4",
+      "measures": [
+        {
+          "name": "UV280",
+          "unit": "ArbitraryUnit",
+          "value": [
+            [
+              1.8742
+            ]
+          ]
+        }
+      ],
+      "dimensions": [
+        {
+          "name": "time",
+          "unit": "SecondTime",
+          "scale": [
+            0.0
+          ]
+        },
+        {
+          "name": "wavelength",
+          "unit": "Nanometer",
+          "scale": [
+            280.0
+          ]
+        }
+      ],
+      "fk_method": "019df997-697a-73ab-b355-359e71d4b3a2",
+      "fk_sample": "019df997-697c-715f-9c99-db79dcff8acb"
+    },
+    {
+      "name": "Measurement Data: A5",
+      "measures": [
+        {
+          "name": "UV260",
+          "unit": "ArbitraryUnit",
+          "value": [
+            [
+              3.001
+            ]
+          ]
+        }
+      ],
+      "dimensions": [
+        {
+          "name": "time",
+          "unit": "SecondTime",
+          "scale": [
+            0.0
+          ]
+        },
+        {
+          "name": "wavelength",
+          "unit": "Nanometer",
+          "scale": [
+            260.0
+          ]
+        }
+      ],
+      "fk_method": "019df997-697a-73ab-b355-359e71d4b3a2",
+      "fk_sample": "019df997-697c-715f-9c99-db7ae36a8a3f"
+    },
+    {
+      "name": "Measurement Data: A5",
+      "measures": [
+        {
+          "name": "UV280",
+          "unit": "ArbitraryUnit",
+          "value": [
+            [
+              1.5157
+            ]
+          ]
+        }
+      ],
+      "dimensions": [
+        {
+          "name": "time",
+          "unit": "SecondTime",
+          "scale": [
+            0.0
+          ]
+        },
+        {
+          "name": "wavelength",
+          "unit": "Nanometer",
+          "scale": [
+            280.0
+          ]
+        }
+      ],
+      "fk_method": "019df997-697a-73ab-b355-359e71d4b3a2",
+      "fk_sample": "019df997-697c-715f-9c99-db7ae36a8a3f"
+    },
+    {
+      "name": "Measurement Data: A6",
+      "measures": [
+        {
+          "name": "UV260",
+          "unit": "ArbitraryUnit",
+          "value": [
+            [
+              2.974
+            ]
+          ]
+        }
+      ],
+      "dimensions": [
+        {
+          "name": "time",
+          "unit": "SecondTime",
+          "scale": [
+            0.0
+          ]
+        },
+        {
+          "name": "wavelength",
+          "unit": "Nanometer",
+          "scale": [
+            260.0
+          ]
+        }
+      ],
+      "fk_method": "019df997-697a-73ab-b355-359e71d4b3a2",
+      "fk_sample": "019df997-697c-715f-9c99-db7be1bbff49"
+    },
+    {
+      "name": "Measurement Data: A6",
+      "measures": [
+        {
+          "name": "UV280",
+          "unit": "ArbitraryUnit",
+          "value": [
+            [
+              1.4536
+            ]
+          ]
+        }
+      ],
+      "dimensions": [
+        {
+          "name": "time",
+          "unit": "SecondTime",
+          "scale": [
+            0.0
+          ]
+        },
+        {
+          "name": "wavelength",
+          "unit": "Nanometer",
+          "scale": [
+            280.0
+          ]
+        }
+      ],
+      "fk_method": "019df997-697a-73ab-b355-359e71d4b3a2",
+      "fk_sample": "019df997-697c-715f-9c99-db7be1bbff49"
+    },
+    {
+      "name": "Measurement Data: A7",
+      "measures": [
+        {
+          "name": "UV260",
+          "unit": "ArbitraryUnit",
+          "value": [
+            [
+              3.0064
+            ]
+          ]
+        }
+      ],
+      "dimensions": [
+        {
+          "name": "time",
+          "unit": "SecondTime",
+          "scale": [
+            0.0
+          ]
+        },
+        {
+          "name": "wavelength",
+          "unit": "Nanometer",
+          "scale": [
+            260.0
+          ]
+        }
+      ],
+      "fk_method": "019df997-697a-73ab-b355-359e71d4b3a2",
+      "fk_sample": "019df997-697d-721b-9f74-dac394fb5a8f"
+    },
+    {
+      "name": "Measurement Data: A7",
+      "measures": [
+        {
+          "name": "UV280",
+          "unit": "ArbitraryUnit",
+          "value": [
+            [
+              1.5261
+            ]
+          ]
+        }
+      ],
+      "dimensions": [
+        {
+          "name": "time",
+          "unit": "SecondTime",
+          "scale": [
+            0.0
+          ]
+        },
+        {
+          "name": "wavelength",
+          "unit": "Nanometer",
+          "scale": [
+            280.0
+          ]
+        }
+      ],
+      "fk_method": "019df997-697a-73ab-b355-359e71d4b3a2",
+      "fk_sample": "019df997-697d-721b-9f74-dac394fb5a8f"
+    },
+    {
+      "name": "Measurement Data: A8",
+      "measures": [
+        {
+          "name": "UV260",
+          "unit": "ArbitraryUnit",
+          "value": [
+            [
+              3.0078
+            ]
+          ]
+        }
+      ],
+      "dimensions": [
+        {
+          "name": "time",
+          "unit": "SecondTime",
+          "scale": [
+            0.0
+          ]
+        },
+        {
+          "name": "wavelength",
+          "unit": "Nanometer",
+          "scale": [
+            260.0
+          ]
+        }
+      ],
+      "fk_method": "019df997-697a-73ab-b355-359e71d4b3a2",
+      "fk_sample": "019df997-697d-721b-9f74-dac4b9e29c1a"
+    },
+    {
+      "name": "Measurement Data: A8",
+      "measures": [
+        {
+          "name": "UV280",
+          "unit": "ArbitraryUnit",
+          "value": [
+            [
+              1.6076
+            ]
+          ]
+        }
+      ],
+      "dimensions": [
+        {
+          "name": "time",
+          "unit": "SecondTime",
+          "scale": [
+            0.0
+          ]
+        },
+        {
+          "name": "wavelength",
+          "unit": "Nanometer",
+          "scale": [
+            280.0
+          ]
+        }
+      ],
+      "fk_method": "019df997-697a-73ab-b355-359e71d4b3a2",
+      "fk_sample": "019df997-697d-721b-9f74-dac4b9e29c1a"
+    },
+    {
+      "name": "Measurement Data: A9",
+      "measures": [
+        {
+          "name": "UV260",
+          "unit": "ArbitraryUnit",
+          "value": [
+            [
+              3.08
+            ]
+          ]
+        }
+      ],
+      "dimensions": [
+        {
+          "name": "time",
+          "unit": "SecondTime",
+          "scale": [
+            0.0
+          ]
+        },
+        {
+          "name": "wavelength",
+          "unit": "Nanometer",
+          "scale": [
+            260.0
+          ]
+        }
+      ],
+      "fk_method": "019df997-697a-73ab-b355-359e71d4b3a2",
+      "fk_sample": "019df997-697d-721b-9f74-dac574867817"
+    },
+    {
+      "name": "Measurement Data: A9",
+      "measures": [
+        {
+          "name": "UV280",
+          "unit": "ArbitraryUnit",
+          "value": [
+            [
+              1.6877
+            ]
+          ]
+        }
+      ],
+      "dimensions": [
+        {
+          "name": "time",
+          "unit": "SecondTime",
+          "scale": [
+            0.0
+          ]
+        },
+        {
+          "name": "wavelength",
+          "unit": "Nanometer",
+          "scale": [
+            280.0
+          ]
+        }
+      ],
+      "fk_method": "019df997-697a-73ab-b355-359e71d4b3a2",
+      "fk_sample": "019df997-697d-721b-9f74-dac574867817"
+    },
+    {
+      "name": "Measurement Data: A10",
+      "measures": [
+        {
+          "name": "UV260",
+          "unit": "ArbitraryUnit",
+          "value": [
+            [
+              3.0465
+            ]
+          ]
+        }
+      ],
+      "dimensions": [
+        {
+          "name": "time",
+          "unit": "SecondTime",
+          "scale": [
+            0.0
+          ]
+        },
+        {
+          "name": "wavelength",
+          "unit": "Nanometer",
+          "scale": [
+            260.0
+          ]
+        }
+      ],
+      "fk_method": "019df997-697a-73ab-b355-359e71d4b3a2",
+      "fk_sample": "019df997-697d-721b-9f74-dac60343f897"
+    },
+    {
+      "name": "Measurement Data: A10",
+      "measures": [
+        {
+          "name": "UV280",
+          "unit": "ArbitraryUnit",
+          "value": [
+            [
+              1.5263
+            ]
+          ]
+        }
+      ],
+      "dimensions": [
+        {
+          "name": "time",
+          "unit": "SecondTime",
+          "scale": [
+            0.0
+          ]
+        },
+        {
+          "name": "wavelength",
+          "unit": "Nanometer",
+          "scale": [
+            280.0
+          ]
+        }
+      ],
+      "fk_method": "019df997-697a-73ab-b355-359e71d4b3a2",
+      "fk_sample": "019df997-697d-721b-9f74-dac60343f897"
+    },
+    {
+      "name": "Measurement Data: A11",
+      "measures": [
+        {
+          "name": "UV260",
+          "unit": "ArbitraryUnit",
+          "value": [
+            [
+              3.0192
+            ]
+          ]
+        }
+      ],
+      "dimensions": [
+        {
+          "name": "time",
+          "unit": "SecondTime",
+          "scale": [
+            0.0
+          ]
+        },
+        {
+          "name": "wavelength",
+          "unit": "Nanometer",
+          "scale": [
+            260.0
+          ]
+        }
+      ],
+      "fk_method": "019df997-697a-73ab-b355-359e71d4b3a2",
+      "fk_sample": "019df997-697d-721b-9f74-dac783b9efcc"
+    },
+    {
+      "name": "Measurement Data: A11",
+      "measures": [
+        {
+          "name": "UV280",
+          "unit": "ArbitraryUnit",
+          "value": [
+            [
+              1.4866
+            ]
+          ]
+        }
+      ],
+      "dimensions": [
+        {
+          "name": "time",
+          "unit": "SecondTime",
+          "scale": [
+            0.0
+          ]
+        },
+        {
+          "name": "wavelength",
+          "unit": "Nanometer",
+          "scale": [
+            280.0
+          ]
+        }
+      ],
+      "fk_method": "019df997-697a-73ab-b355-359e71d4b3a2",
+      "fk_sample": "019df997-697d-721b-9f74-dac783b9efcc"
+    },
+    {
+      "name": "Measurement Data: A12",
+      "measures": [
+        {
+          "name": "UV260",
+          "unit": "ArbitraryUnit",
+          "value": [
+            [
+              3.0195
+            ]
+          ]
+        }
+      ],
+      "dimensions": [
+        {
+          "name": "time",
+          "unit": "SecondTime",
+          "scale": [
+            0.0
+          ]
+        },
+        {
+          "name": "wavelength",
+          "unit": "Nanometer",
+          "scale": [
+            260.0
+          ]
+        }
+      ],
+      "fk_method": "019df997-697a-73ab-b355-359e71d4b3a2",
+      "fk_sample": "019df997-697d-721b-9f74-dac847c53cbf"
+    },
+    {
+      "name": "Measurement Data: A12",
+      "measures": [
+        {
+          "name": "UV280",
+          "unit": "ArbitraryUnit",
+          "value": [
+            [
+              1.5809
+            ]
+          ]
+        }
+      ],
+      "dimensions": [
+        {
+          "name": "time",
+          "unit": "SecondTime",
+          "scale": [
+            0.0
+          ]
+        },
+        {
+          "name": "wavelength",
+          "unit": "Nanometer",
+          "scale": [
+            280.0
+          ]
+        }
+      ],
+      "fk_method": "019df997-697a-73ab-b355-359e71d4b3a2",
+      "fk_sample": "019df997-697d-721b-9f74-dac847c53cbf"
+    },
+    {
+      "name": "Measurement Data: B1",
+      "measures": [
+        {
+          "name": "UV260",
+          "unit": "ArbitraryUnit",
+          "value": [
+            [
+              2.8008
+            ]
+          ]
+        }
+      ],
+      "dimensions": [
+        {
+          "name": "time",
+          "unit": "SecondTime",
+          "scale": [
+            0.0
+          ]
+        },
+        {
+          "name": "wavelength",
+          "unit": "Nanometer",
+          "scale": [
+            260.0
+          ]
+        }
+      ],
+      "fk_method": "019df997-697a-73ab-b355-359e71d4b3a2",
+      "fk_sample": "019df997-697d-721b-9f74-dac9e8dfc8fe"
+    },
+    {
+      "name": "Measurement Data: B1",
+      "measures": [
+        {
+          "name": "UV280",
+          "unit": "ArbitraryUnit",
+          "value": [
+            [
+              1.5423
+            ]
+          ]
+        }
+      ],
+      "dimensions": [
+        {
+          "name": "time",
+          "unit": "SecondTime",
+          "scale": [
+            0.0
+          ]
+        },
+        {
+          "name": "wavelength",
+          "unit": "Nanometer",
+          "scale": [
+            280.0
+          ]
+        }
+      ],
+      "fk_method": "019df997-697a-73ab-b355-359e71d4b3a2",
+      "fk_sample": "019df997-697d-721b-9f74-dac9e8dfc8fe"
+    },
+    {
+      "name": "Measurement Data: B2",
+      "measures": [
+        {
+          "name": "UV260",
+          "unit": "ArbitraryUnit",
+          "value": [
+            [
+              2.9305
+            ]
+          ]
+        }
+      ],
+      "dimensions": [
+        {
+          "name": "time",
+          "unit": "SecondTime",
+          "scale": [
+            0.0
+          ]
+        },
+        {
+          "name": "wavelength",
+          "unit": "Nanometer",
+          "scale": [
+            260.0
+          ]
+        }
+      ],
+      "fk_method": "019df997-697a-73ab-b355-359e71d4b3a2",
+      "fk_sample": "019df997-697d-721b-9f74-dacaf4239bde"
+    },
+    {
+      "name": "Measurement Data: B2",
+      "measures": [
+        {
+          "name": "UV280",
+          "unit": "ArbitraryUnit",
+          "value": [
+            [
+              1.4631
+            ]
+          ]
+        }
+      ],
+      "dimensions": [
+        {
+          "name": "time",
+          "unit": "SecondTime",
+          "scale": [
+            0.0
+          ]
+        },
+        {
+          "name": "wavelength",
+          "unit": "Nanometer",
+          "scale": [
+            280.0
+          ]
+        }
+      ],
+      "fk_method": "019df997-697a-73ab-b355-359e71d4b3a2",
+      "fk_sample": "019df997-697d-721b-9f74-dacaf4239bde"
+    },
+    {
+      "name": "Measurement Data: B3",
+      "measures": [
+        {
+          "name": "UV260",
+          "unit": "ArbitraryUnit",
+          "value": [
+            [
+              2.9463
+            ]
+          ]
+        }
+      ],
+      "dimensions": [
+        {
+          "name": "time",
+          "unit": "SecondTime",
+          "scale": [
+            0.0
+          ]
+        },
+        {
+          "name": "wavelength",
+          "unit": "Nanometer",
+          "scale": [
+            260.0
+          ]
+        }
+      ],
+      "fk_method": "019df997-697a-73ab-b355-359e71d4b3a2",
+      "fk_sample": "019df997-697d-721b-9f74-dacb5ed0b9eb"
+    },
+    {
+      "name": "Measurement Data: B3",
+      "measures": [
+        {
+          "name": "UV280",
+          "unit": "ArbitraryUnit",
+          "value": [
+            [
+              1.8935
+            ]
+          ]
+        }
+      ],
+      "dimensions": [
+        {
+          "name": "time",
+          "unit": "SecondTime",
+          "scale": [
+            0.0
+          ]
+        },
+        {
+          "name": "wavelength",
+          "unit": "Nanometer",
+          "scale": [
+            280.0
+          ]
+        }
+      ],
+      "fk_method": "019df997-697a-73ab-b355-359e71d4b3a2",
+      "fk_sample": "019df997-697d-721b-9f74-dacb5ed0b9eb"
+    },
+    {
+      "name": "Measurement Data: B4",
+      "measures": [
+        {
+          "name": "UV260",
+          "unit": "ArbitraryUnit",
+          "value": [
+            [
+              2.9659
+            ]
+          ]
+        }
+      ],
+      "dimensions": [
+        {
+          "name": "time",
+          "unit": "SecondTime",
+          "scale": [
+            0.0
+          ]
+        },
+        {
+          "name": "wavelength",
+          "unit": "Nanometer",
+          "scale": [
+            260.0
+          ]
+        }
+      ],
+      "fk_method": "019df997-697a-73ab-b355-359e71d4b3a2",
+      "fk_sample": "019df997-697e-77a5-b813-ed37df9b68cd"
+    },
+    {
+      "name": "Measurement Data: B4",
+      "measures": [
+        {
+          "name": "UV280",
+          "unit": "ArbitraryUnit",
+          "value": [
+            [
+              1.5288
+            ]
+          ]
+        }
+      ],
+      "dimensions": [
+        {
+          "name": "time",
+          "unit": "SecondTime",
+          "scale": [
+            0.0
+          ]
+        },
+        {
+          "name": "wavelength",
+          "unit": "Nanometer",
+          "scale": [
+            280.0
+          ]
+        }
+      ],
+      "fk_method": "019df997-697a-73ab-b355-359e71d4b3a2",
+      "fk_sample": "019df997-697e-77a5-b813-ed37df9b68cd"
+    },
+    {
+      "name": "Measurement Data: B5",
+      "measures": [
+        {
+          "name": "UV260",
+          "unit": "ArbitraryUnit",
+          "value": [
+            [
+              2.9631
+            ]
+          ]
+        }
+      ],
+      "dimensions": [
+        {
+          "name": "time",
+          "unit": "SecondTime",
+          "scale": [
+            0.0
+          ]
+        },
+        {
+          "name": "wavelength",
+          "unit": "Nanometer",
+          "scale": [
+            260.0
+          ]
+        }
+      ],
+      "fk_method": "019df997-697a-73ab-b355-359e71d4b3a2",
+      "fk_sample": "019df997-697e-77a5-b813-ed3853df8306"
+    },
+    {
+      "name": "Measurement Data: B5",
+      "measures": [
+        {
+          "name": "UV280",
+          "unit": "ArbitraryUnit",
+          "value": [
+            [
+              1.5203
+            ]
+          ]
+        }
+      ],
+      "dimensions": [
+        {
+          "name": "time",
+          "unit": "SecondTime",
+          "scale": [
+            0.0
+          ]
+        },
+        {
+          "name": "wavelength",
+          "unit": "Nanometer",
+          "scale": [
+            280.0
+          ]
+        }
+      ],
+      "fk_method": "019df997-697a-73ab-b355-359e71d4b3a2",
+      "fk_sample": "019df997-697e-77a5-b813-ed3853df8306"
+    },
+    {
+      "name": "Measurement Data: B6",
+      "measures": [
+        {
+          "name": "UV260",
+          "unit": "ArbitraryUnit",
+          "value": [
+            [
+              2.9577
+            ]
+          ]
+        }
+      ],
+      "dimensions": [
+        {
+          "name": "time",
+          "unit": "SecondTime",
+          "scale": [
+            0.0
+          ]
+        },
+        {
+          "name": "wavelength",
+          "unit": "Nanometer",
+          "scale": [
+            260.0
+          ]
+        }
+      ],
+      "fk_method": "019df997-697a-73ab-b355-359e71d4b3a2",
+      "fk_sample": "019df997-697e-77a5-b813-ed3992cf6dc8"
+    },
+    {
+      "name": "Measurement Data: B6",
+      "measures": [
+        {
+          "name": "UV280",
+          "unit": "ArbitraryUnit",
+          "value": [
+            [
+              1.5144
+            ]
+          ]
+        }
+      ],
+      "dimensions": [
+        {
+          "name": "time",
+          "unit": "SecondTime",
+          "scale": [
+            0.0
+          ]
+        },
+        {
+          "name": "wavelength",
+          "unit": "Nanometer",
+          "scale": [
+            280.0
+          ]
+        }
+      ],
+      "fk_method": "019df997-697a-73ab-b355-359e71d4b3a2",
+      "fk_sample": "019df997-697e-77a5-b813-ed3992cf6dc8"
+    },
+    {
+      "name": "Measurement Data: B7",
+      "measures": [
+        {
+          "name": "UV260",
+          "unit": "ArbitraryUnit",
+          "value": [
+            [
+              2.9584
+            ]
+          ]
+        }
+      ],
+      "dimensions": [
+        {
+          "name": "time",
+          "unit": "SecondTime",
+          "scale": [
+            0.0
+          ]
+        },
+        {
+          "name": "wavelength",
+          "unit": "Nanometer",
+          "scale": [
+            260.0
+          ]
+        }
+      ],
+      "fk_method": "019df997-697a-73ab-b355-359e71d4b3a2",
+      "fk_sample": "019df997-697e-77a5-b813-ed3abcf6b793"
+    },
+    {
+      "name": "Measurement Data: B7",
+      "measures": [
+        {
+          "name": "UV280",
+          "unit": "ArbitraryUnit",
+          "value": [
+            [
+              1.6105
+            ]
+          ]
+        }
+      ],
+      "dimensions": [
+        {
+          "name": "time",
+          "unit": "SecondTime",
+          "scale": [
+            0.0
+          ]
+        },
+        {
+          "name": "wavelength",
+          "unit": "Nanometer",
+          "scale": [
+            280.0
+          ]
+        }
+      ],
+      "fk_method": "019df997-697a-73ab-b355-359e71d4b3a2",
+      "fk_sample": "019df997-697e-77a5-b813-ed3abcf6b793"
+    },
+    {
+      "name": "Measurement Data: B8",
+      "measures": [
+        {
+          "name": "UV260",
+          "unit": "ArbitraryUnit",
+          "value": [
+            [
+              3.0551
+            ]
+          ]
+        }
+      ],
+      "dimensions": [
+        {
+          "name": "time",
+          "unit": "SecondTime",
+          "scale": [
+            0.0
+          ]
+        },
+        {
+          "name": "wavelength",
+          "unit": "Nanometer",
+          "scale": [
+            260.0
+          ]
+        }
+      ],
+      "fk_method": "019df997-697a-73ab-b355-359e71d4b3a2",
+      "fk_sample": "019df997-697e-77a5-b813-ed3b1ea4fcef"
+    },
+    {
+      "name": "Measurement Data: B8",
+      "measures": [
+        {
+          "name": "UV280",
+          "unit": "ArbitraryUnit",
+          "value": [
+            [
+              1.9942
+            ]
+          ]
+        }
+      ],
+      "dimensions": [
+        {
+          "name": "time",
+          "unit": "SecondTime",
+          "scale": [
+            0.0
+          ]
+        },
+        {
+          "name": "wavelength",
+          "unit": "Nanometer",
+          "scale": [
+            280.0
+          ]
+        }
+      ],
+      "fk_method": "019df997-697a-73ab-b355-359e71d4b3a2",
+      "fk_sample": "019df997-697e-77a5-b813-ed3b1ea4fcef"
+    },
+    {
+      "name": "Measurement Data: B9",
+      "measures": [
+        {
+          "name": "UV260",
+          "unit": "ArbitraryUnit",
+          "value": [
+            [
+              3.0059
+            ]
+          ]
+        }
+      ],
+      "dimensions": [
+        {
+          "name": "time",
+          "unit": "SecondTime",
+          "scale": [
+            0.0
+          ]
+        },
+        {
+          "name": "wavelength",
+          "unit": "Nanometer",
+          "scale": [
+            260.0
+          ]
+        }
+      ],
+      "fk_method": "019df997-697a-73ab-b355-359e71d4b3a2",
+      "fk_sample": "019df997-697e-77a5-b813-ed3c01c91a6f"
+    },
+    {
+      "name": "Measurement Data: B9",
+      "measures": [
+        {
+          "name": "UV280",
+          "unit": "ArbitraryUnit",
+          "value": [
+            [
+              1.5113
+            ]
+          ]
+        }
+      ],
+      "dimensions": [
+        {
+          "name": "time",
+          "unit": "SecondTime",
+          "scale": [
+            0.0
+          ]
+        },
+        {
+          "name": "wavelength",
+          "unit": "Nanometer",
+          "scale": [
+            280.0
+          ]
+        }
+      ],
+      "fk_method": "019df997-697a-73ab-b355-359e71d4b3a2",
+      "fk_sample": "019df997-697e-77a5-b813-ed3c01c91a6f"
+    },
+    {
+      "name": "Measurement Data: B10",
+      "measures": [
+        {
+          "name": "UV260",
+          "unit": "ArbitraryUnit",
+          "value": [
+            [
+              3.0078
+            ]
+          ]
+        }
+      ],
+      "dimensions": [
+        {
+          "name": "time",
+          "unit": "SecondTime",
+          "scale": [
+            0.0
+          ]
+        },
+        {
+          "name": "wavelength",
+          "unit": "Nanometer",
+          "scale": [
+            260.0
+          ]
+        }
+      ],
+      "fk_method": "019df997-697a-73ab-b355-359e71d4b3a2",
+      "fk_sample": "019df997-697e-77a5-b813-ed3df1a697fe"
+    },
+    {
+      "name": "Measurement Data: B10",
+      "measures": [
+        {
+          "name": "UV280",
+          "unit": "ArbitraryUnit",
+          "value": [
+            [
+              1.6025
+            ]
+          ]
+        }
+      ],
+      "dimensions": [
+        {
+          "name": "time",
+          "unit": "SecondTime",
+          "scale": [
+            0.0
+          ]
+        },
+        {
+          "name": "wavelength",
+          "unit": "Nanometer",
+          "scale": [
+            280.0
+          ]
+        }
+      ],
+      "fk_method": "019df997-697a-73ab-b355-359e71d4b3a2",
+      "fk_sample": "019df997-697e-77a5-b813-ed3df1a697fe"
+    },
+    {
+      "name": "Measurement Data: B11",
+      "measures": [
+        {
+          "name": "UV260",
+          "unit": "ArbitraryUnit",
+          "value": [
+            [
+              3.0056
+            ]
+          ]
+        }
+      ],
+      "dimensions": [
+        {
+          "name": "time",
+          "unit": "SecondTime",
+          "scale": [
+            0.0
+          ]
+        },
+        {
+          "name": "wavelength",
+          "unit": "Nanometer",
+          "scale": [
+            260.0
+          ]
+        }
+      ],
+      "fk_method": "019df997-697a-73ab-b355-359e71d4b3a2",
+      "fk_sample": "019df997-697e-77a5-b813-ed3eec5ab80d"
+    },
+    {
+      "name": "Measurement Data: B11",
+      "measures": [
+        {
+          "name": "UV280",
+          "unit": "ArbitraryUnit",
+          "value": [
+            [
+              1.5126
+            ]
+          ]
+        }
+      ],
+      "dimensions": [
+        {
+          "name": "time",
+          "unit": "SecondTime",
+          "scale": [
+            0.0
+          ]
+        },
+        {
+          "name": "wavelength",
+          "unit": "Nanometer",
+          "scale": [
+            280.0
+          ]
+        }
+      ],
+      "fk_method": "019df997-697a-73ab-b355-359e71d4b3a2",
+      "fk_sample": "019df997-697e-77a5-b813-ed3eec5ab80d"
+    },
+    {
+      "name": "Measurement Data: B12",
+      "measures": [
+        {
+          "name": "UV260",
+          "unit": "ArbitraryUnit",
+          "value": [
+            [
+              2.9964
+            ]
+          ]
+        }
+      ],
+      "dimensions": [
+        {
+          "name": "time",
+          "unit": "SecondTime",
+          "scale": [
+            0.0
+          ]
+        },
+        {
+          "name": "wavelength",
+          "unit": "Nanometer",
+          "scale": [
+            260.0
+          ]
+        }
+      ],
+      "fk_method": "019df997-697a-73ab-b355-359e71d4b3a2",
+      "fk_sample": "019df997-697f-709b-8548-efc6c611872d"
+    },
+    {
+      "name": "Measurement Data: B12",
+      "measures": [
+        {
+          "name": "UV280",
+          "unit": "ArbitraryUnit",
+          "value": [
+            [
+              1.4922
+            ]
+          ]
+        }
+      ],
+      "dimensions": [
+        {
+          "name": "time",
+          "unit": "SecondTime",
+          "scale": [
+            0.0
+          ]
+        },
+        {
+          "name": "wavelength",
+          "unit": "Nanometer",
+          "scale": [
+            280.0
+          ]
+        }
+      ],
+      "fk_method": "019df997-697a-73ab-b355-359e71d4b3a2",
+      "fk_sample": "019df997-697f-709b-8548-efc6c611872d"
+    },
+    {
+      "name": "Measurement Data: C1",
+      "measures": [
+        {
+          "name": "UV260",
+          "unit": "ArbitraryUnit",
+          "value": [
+            [
+              2.9558
+            ]
+          ]
+        }
+      ],
+      "dimensions": [
+        {
+          "name": "time",
+          "unit": "SecondTime",
+          "scale": [
+            0.0
+          ]
+        },
+        {
+          "name": "wavelength",
+          "unit": "Nanometer",
+          "scale": [
+            260.0
+          ]
+        }
+      ],
+      "fk_method": "019df997-697a-73ab-b355-359e71d4b3a2",
+      "fk_sample": "019df997-697f-709b-8548-efc76d1800f6"
+    },
+    {
+      "name": "Measurement Data: C1",
+      "measures": [
+        {
+          "name": "UV280",
+          "unit": "ArbitraryUnit",
+          "value": [
+            [
+              1.4433
+            ]
+          ]
+        }
+      ],
+      "dimensions": [
+        {
+          "name": "time",
+          "unit": "SecondTime",
+          "scale": [
+            0.0
+          ]
+        },
+        {
+          "name": "wavelength",
+          "unit": "Nanometer",
+          "scale": [
+            280.0
+          ]
+        }
+      ],
+      "fk_method": "019df997-697a-73ab-b355-359e71d4b3a2",
+      "fk_sample": "019df997-697f-709b-8548-efc76d1800f6"
+    },
+    {
+      "name": "Measurement Data: C2",
+      "measures": [
+        {
+          "name": "UV260",
+          "unit": "ArbitraryUnit",
+          "value": [
+            [
+              2.9847
+            ]
+          ]
+        }
+      ],
+      "dimensions": [
+        {
+          "name": "time",
+          "unit": "SecondTime",
+          "scale": [
+            0.0
+          ]
+        },
+        {
+          "name": "wavelength",
+          "unit": "Nanometer",
+          "scale": [
+            260.0
+          ]
+        }
+      ],
+      "fk_method": "019df997-697a-73ab-b355-359e71d4b3a2",
+      "fk_sample": "019df997-697f-709b-8548-efc8ed909e79"
+    },
+    {
+      "name": "Measurement Data: C2",
+      "measures": [
+        {
+          "name": "UV280",
+          "unit": "ArbitraryUnit",
+          "value": [
+            [
+              1.6177
+            ]
+          ]
+        }
+      ],
+      "dimensions": [
+        {
+          "name": "time",
+          "unit": "SecondTime",
+          "scale": [
+            0.0
+          ]
+        },
+        {
+          "name": "wavelength",
+          "unit": "Nanometer",
+          "scale": [
+            280.0
+          ]
+        }
+      ],
+      "fk_method": "019df997-697a-73ab-b355-359e71d4b3a2",
+      "fk_sample": "019df997-697f-709b-8548-efc8ed909e79"
+    },
+    {
+      "name": "Measurement Data: C3",
+      "measures": [
+        {
+          "name": "UV260",
+          "unit": "ArbitraryUnit",
+          "value": [
+            [
+              3.007
+            ]
+          ]
+        }
+      ],
+      "dimensions": [
+        {
+          "name": "time",
+          "unit": "SecondTime",
+          "scale": [
+            0.0
+          ]
+        },
+        {
+          "name": "wavelength",
+          "unit": "Nanometer",
+          "scale": [
+            260.0
+          ]
+        }
+      ],
+      "fk_method": "019df997-697a-73ab-b355-359e71d4b3a2",
+      "fk_sample": "019df997-697f-709b-8548-efc9dcc49ccb"
+    },
+    {
+      "name": "Measurement Data: C3",
+      "measures": [
+        {
+          "name": "UV280",
+          "unit": "ArbitraryUnit",
+          "value": [
+            [
+              1.4864
+            ]
+          ]
+        }
+      ],
+      "dimensions": [
+        {
+          "name": "time",
+          "unit": "SecondTime",
+          "scale": [
+            0.0
+          ]
+        },
+        {
+          "name": "wavelength",
+          "unit": "Nanometer",
+          "scale": [
+            280.0
+          ]
+        }
+      ],
+      "fk_method": "019df997-697a-73ab-b355-359e71d4b3a2",
+      "fk_sample": "019df997-697f-709b-8548-efc9dcc49ccb"
+    },
+    {
+      "name": "Measurement Data: C4",
+      "measures": [
+        {
+          "name": "UV260",
+          "unit": "ArbitraryUnit",
+          "value": [
+            [
+              2.989
+            ]
+          ]
+        }
+      ],
+      "dimensions": [
+        {
+          "name": "time",
+          "unit": "SecondTime",
+          "scale": [
+            0.0
+          ]
+        },
+        {
+          "name": "wavelength",
+          "unit": "Nanometer",
+          "scale": [
+            260.0
+          ]
+        }
+      ],
+      "fk_method": "019df997-697a-73ab-b355-359e71d4b3a2",
+      "fk_sample": "019df997-697f-709b-8548-efca295a3bf9"
+    },
+    {
+      "name": "Measurement Data: C4",
+      "measures": [
+        {
+          "name": "UV280",
+          "unit": "ArbitraryUnit",
+          "value": [
+            [
+              1.4652
+            ]
+          ]
+        }
+      ],
+      "dimensions": [
+        {
+          "name": "time",
+          "unit": "SecondTime",
+          "scale": [
+            0.0
+          ]
+        },
+        {
+          "name": "wavelength",
+          "unit": "Nanometer",
+          "scale": [
+            280.0
+          ]
+        }
+      ],
+      "fk_method": "019df997-697a-73ab-b355-359e71d4b3a2",
+      "fk_sample": "019df997-697f-709b-8548-efca295a3bf9"
+    },
+    {
+      "name": "Measurement Data: C5",
+      "measures": [
+        {
+          "name": "UV260",
+          "unit": "ArbitraryUnit",
+          "value": [
+            [
+              3.0023
+            ]
+          ]
+        }
+      ],
+      "dimensions": [
+        {
+          "name": "time",
+          "unit": "SecondTime",
+          "scale": [
+            0.0
+          ]
+        },
+        {
+          "name": "wavelength",
+          "unit": "Nanometer",
+          "scale": [
+            260.0
+          ]
+        }
+      ],
+      "fk_method": "019df997-697a-73ab-b355-359e71d4b3a2",
+      "fk_sample": "019df997-697f-709b-8548-efcbf6fae02c"
+    },
+    {
+      "name": "Measurement Data: C5",
+      "measures": [
+        {
+          "name": "UV280",
+          "unit": "ArbitraryUnit",
+          "value": [
+            [
+              1.6415
+            ]
+          ]
+        }
+      ],
+      "dimensions": [
+        {
+          "name": "time",
+          "unit": "SecondTime",
+          "scale": [
+            0.0
+          ]
+        },
+        {
+          "name": "wavelength",
+          "unit": "Nanometer",
+          "scale": [
+            280.0
+          ]
+        }
+      ],
+      "fk_method": "019df997-697a-73ab-b355-359e71d4b3a2",
+      "fk_sample": "019df997-697f-709b-8548-efcbf6fae02c"
+    },
+    {
+      "name": "Measurement Data: C6",
+      "measures": [
+        {
+          "name": "UV260",
+          "unit": "ArbitraryUnit",
+          "value": [
+            [
+              3.0011
+            ]
+          ]
+        }
+      ],
+      "dimensions": [
+        {
+          "name": "time",
+          "unit": "SecondTime",
+          "scale": [
+            0.0
+          ]
+        },
+        {
+          "name": "wavelength",
+          "unit": "Nanometer",
+          "scale": [
+            260.0
+          ]
+        }
+      ],
+      "fk_method": "019df997-697a-73ab-b355-359e71d4b3a2",
+      "fk_sample": "019df997-697f-709b-8548-efcc461ef5f8"
+    },
+    {
+      "name": "Measurement Data: C6",
+      "measures": [
+        {
+          "name": "UV280",
+          "unit": "ArbitraryUnit",
+          "value": [
+            [
+              1.5972
+            ]
+          ]
+        }
+      ],
+      "dimensions": [
+        {
+          "name": "time",
+          "unit": "SecondTime",
+          "scale": [
+            0.0
+          ]
+        },
+        {
+          "name": "wavelength",
+          "unit": "Nanometer",
+          "scale": [
+            280.0
+          ]
+        }
+      ],
+      "fk_method": "019df997-697a-73ab-b355-359e71d4b3a2",
+      "fk_sample": "019df997-697f-709b-8548-efcc461ef5f8"
+    },
+    {
+      "name": "Measurement Data: C7",
+      "measures": [
+        {
+          "name": "UV260",
+          "unit": "ArbitraryUnit",
+          "value": [
+            [
+              2.9946
+            ]
+          ]
+        }
+      ],
+      "dimensions": [
+        {
+          "name": "time",
+          "unit": "SecondTime",
+          "scale": [
+            0.0
+          ]
+        },
+        {
+          "name": "wavelength",
+          "unit": "Nanometer",
+          "scale": [
+            260.0
+          ]
+        }
+      ],
+      "fk_method": "019df997-697a-73ab-b355-359e71d4b3a2",
+      "fk_sample": "019df997-697f-709b-8548-efcd0fa3b089"
+    },
+    {
+      "name": "Measurement Data: C7",
+      "measures": [
+        {
+          "name": "UV280",
+          "unit": "ArbitraryUnit",
+          "value": [
+            [
+              1.8646
+            ]
+          ]
+        }
+      ],
+      "dimensions": [
+        {
+          "name": "time",
+          "unit": "SecondTime",
+          "scale": [
+            0.0
+          ]
+        },
+        {
+          "name": "wavelength",
+          "unit": "Nanometer",
+          "scale": [
+            280.0
+          ]
+        }
+      ],
+      "fk_method": "019df997-697a-73ab-b355-359e71d4b3a2",
+      "fk_sample": "019df997-697f-709b-8548-efcd0fa3b089"
+    },
+    {
+      "name": "Measurement Data: C8",
+      "measures": [
+        {
+          "name": "UV260",
+          "unit": "ArbitraryUnit",
+          "value": [
+            [
+              3.0262
+            ]
+          ]
+        }
+      ],
+      "dimensions": [
+        {
+          "name": "time",
+          "unit": "SecondTime",
+          "scale": [
+            0.0
+          ]
+        },
+        {
+          "name": "wavelength",
+          "unit": "Nanometer",
+          "scale": [
+            260.0
+          ]
+        }
+      ],
+      "fk_method": "019df997-697a-73ab-b355-359e71d4b3a2",
+      "fk_sample": "019df997-697f-709b-8548-efce2c90dc4c"
+    },
+    {
+      "name": "Measurement Data: C8",
+      "measures": [
+        {
+          "name": "UV280",
+          "unit": "ArbitraryUnit",
+          "value": [
+            [
+              1.9411
+            ]
+          ]
+        }
+      ],
+      "dimensions": [
+        {
+          "name": "time",
+          "unit": "SecondTime",
+          "scale": [
+            0.0
+          ]
+        },
+        {
+          "name": "wavelength",
+          "unit": "Nanometer",
+          "scale": [
+            280.0
+          ]
+        }
+      ],
+      "fk_method": "019df997-697a-73ab-b355-359e71d4b3a2",
+      "fk_sample": "019df997-697f-709b-8548-efce2c90dc4c"
+    },
+    {
+      "name": "Measurement Data: C9",
+      "measures": [
+        {
+          "name": "UV260",
+          "unit": "ArbitraryUnit",
+          "value": [
+            [
+              3.0488
+            ]
+          ]
+        }
+      ],
+      "dimensions": [
+        {
+          "name": "time",
+          "unit": "SecondTime",
+          "scale": [
+            0.0
+          ]
+        },
+        {
+          "name": "wavelength",
+          "unit": "Nanometer",
+          "scale": [
+            260.0
+          ]
+        }
+      ],
+      "fk_method": "019df997-697a-73ab-b355-359e71d4b3a2",
+      "fk_sample": "019df997-6980-73bb-a141-e7c3547cf24f"
+    },
+    {
+      "name": "Measurement Data: C9",
+      "measures": [
+        {
+          "name": "UV280",
+          "unit": "ArbitraryUnit",
+          "value": [
+            [
+              1.6761
+            ]
+          ]
+        }
+      ],
+      "dimensions": [
+        {
+          "name": "time",
+          "unit": "SecondTime",
+          "scale": [
+            0.0
+          ]
+        },
+        {
+          "name": "wavelength",
+          "unit": "Nanometer",
+          "scale": [
+            280.0
+          ]
+        }
+      ],
+      "fk_method": "019df997-697a-73ab-b355-359e71d4b3a2",
+      "fk_sample": "019df997-6980-73bb-a141-e7c3547cf24f"
+    },
+    {
+      "name": "Measurement Data: C10",
+      "measures": [
+        {
+          "name": "UV260",
+          "unit": "ArbitraryUnit",
+          "value": [
+            [
+              3.018
+            ]
+          ]
+        }
+      ],
+      "dimensions": [
+        {
+          "name": "time",
+          "unit": "SecondTime",
+          "scale": [
+            0.0
+          ]
+        },
+        {
+          "name": "wavelength",
+          "unit": "Nanometer",
+          "scale": [
+            260.0
+          ]
+        }
+      ],
+      "fk_method": "019df997-697a-73ab-b355-359e71d4b3a2",
+      "fk_sample": "019df997-6980-73bb-a141-e7c4e60c87ec"
+    },
+    {
+      "name": "Measurement Data: C10",
+      "measures": [
+        {
+          "name": "UV280",
+          "unit": "ArbitraryUnit",
+          "value": [
+            [
+              1.4765
+            ]
+          ]
+        }
+      ],
+      "dimensions": [
+        {
+          "name": "time",
+          "unit": "SecondTime",
+          "scale": [
+            0.0
+          ]
+        },
+        {
+          "name": "wavelength",
+          "unit": "Nanometer",
+          "scale": [
+            280.0
+          ]
+        }
+      ],
+      "fk_method": "019df997-697a-73ab-b355-359e71d4b3a2",
+      "fk_sample": "019df997-6980-73bb-a141-e7c4e60c87ec"
+    },
+    {
+      "name": "Measurement Data: C11",
+      "measures": [
+        {
+          "name": "UV260",
+          "unit": "ArbitraryUnit",
+          "value": [
+            [
+              3.046
+            ]
+          ]
+        }
+      ],
+      "dimensions": [
+        {
+          "name": "time",
+          "unit": "SecondTime",
+          "scale": [
+            0.0
+          ]
+        },
+        {
+          "name": "wavelength",
+          "unit": "Nanometer",
+          "scale": [
+            260.0
+          ]
+        }
+      ],
+      "fk_method": "019df997-697a-73ab-b355-359e71d4b3a2",
+      "fk_sample": "019df997-6980-73bb-a141-e7c5b121687b"
+    },
+    {
+      "name": "Measurement Data: C11",
+      "measures": [
+        {
+          "name": "UV280",
+          "unit": "ArbitraryUnit",
+          "value": [
+            [
+              1.6108
+            ]
+          ]
+        }
+      ],
+      "dimensions": [
+        {
+          "name": "time",
+          "unit": "SecondTime",
+          "scale": [
+            0.0
+          ]
+        },
+        {
+          "name": "wavelength",
+          "unit": "Nanometer",
+          "scale": [
+            280.0
+          ]
+        }
+      ],
+      "fk_method": "019df997-697a-73ab-b355-359e71d4b3a2",
+      "fk_sample": "019df997-6980-73bb-a141-e7c5b121687b"
+    },
+    {
+      "name": "Measurement Data: C12",
+      "measures": [
+        {
+          "name": "UV260",
+          "unit": "ArbitraryUnit",
+          "value": [
+            [
+              2.9642
+            ]
+          ]
+        }
+      ],
+      "dimensions": [
+        {
+          "name": "time",
+          "unit": "SecondTime",
+          "scale": [
+            0.0
+          ]
+        },
+        {
+          "name": "wavelength",
+          "unit": "Nanometer",
+          "scale": [
+            260.0
+          ]
+        }
+      ],
+      "fk_method": "019df997-697a-73ab-b355-359e71d4b3a2",
+      "fk_sample": "019df997-6980-73bb-a141-e7c61b7d08e1"
+    },
+    {
+      "name": "Measurement Data: C12",
+      "measures": [
+        {
+          "name": "UV280",
+          "unit": "ArbitraryUnit",
+          "value": [
+            [
+              1.6643
+            ]
+          ]
+        }
+      ],
+      "dimensions": [
+        {
+          "name": "time",
+          "unit": "SecondTime",
+          "scale": [
+            0.0
+          ]
+        },
+        {
+          "name": "wavelength",
+          "unit": "Nanometer",
+          "scale": [
+            280.0
+          ]
+        }
+      ],
+      "fk_method": "019df997-697a-73ab-b355-359e71d4b3a2",
+      "fk_sample": "019df997-6980-73bb-a141-e7c61b7d08e1"
+    },
+    {
+      "name": "Measurement Data: D1",
+      "measures": [
+        {
+          "name": "UV260",
+          "unit": "ArbitraryUnit",
+          "value": [
+            [
+              2.9924
+            ]
+          ]
+        }
+      ],
+      "dimensions": [
+        {
+          "name": "time",
+          "unit": "SecondTime",
+          "scale": [
+            0.0
+          ]
+        },
+        {
+          "name": "wavelength",
+          "unit": "Nanometer",
+          "scale": [
+            260.0
+          ]
+        }
+      ],
+      "fk_method": "019df997-697a-73ab-b355-359e71d4b3a2",
+      "fk_sample": "019df997-6980-73bb-a141-e7c7a33e44bd"
+    },
+    {
+      "name": "Measurement Data: D1",
+      "measures": [
+        {
+          "name": "UV280",
+          "unit": "ArbitraryUnit",
+          "value": [
+            [
+              1.6469
+            ]
+          ]
+        }
+      ],
+      "dimensions": [
+        {
+          "name": "time",
+          "unit": "SecondTime",
+          "scale": [
+            0.0
+          ]
+        },
+        {
+          "name": "wavelength",
+          "unit": "Nanometer",
+          "scale": [
+            280.0
+          ]
+        }
+      ],
+      "fk_method": "019df997-697a-73ab-b355-359e71d4b3a2",
+      "fk_sample": "019df997-6980-73bb-a141-e7c7a33e44bd"
+    },
+    {
+      "name": "Measurement Data: D2",
+      "measures": [
+        {
+          "name": "UV260",
+          "unit": "ArbitraryUnit",
+          "value": [
+            [
+              3.0178
+            ]
+          ]
+        }
+      ],
+      "dimensions": [
+        {
+          "name": "time",
+          "unit": "SecondTime",
+          "scale": [
+            0.0
+          ]
+        },
+        {
+          "name": "wavelength",
+          "unit": "Nanometer",
+          "scale": [
+            260.0
+          ]
+        }
+      ],
+      "fk_method": "019df997-697a-73ab-b355-359e71d4b3a2",
+      "fk_sample": "019df997-6980-73bb-a141-e7c83a0201c2"
+    },
+    {
+      "name": "Measurement Data: D2",
+      "measures": [
+        {
+          "name": "UV280",
+          "unit": "ArbitraryUnit",
+          "value": [
+            [
+              1.6112
+            ]
+          ]
+        }
+      ],
+      "dimensions": [
+        {
+          "name": "time",
+          "unit": "SecondTime",
+          "scale": [
+            0.0
+          ]
+        },
+        {
+          "name": "wavelength",
+          "unit": "Nanometer",
+          "scale": [
+            280.0
+          ]
+        }
+      ],
+      "fk_method": "019df997-697a-73ab-b355-359e71d4b3a2",
+      "fk_sample": "019df997-6980-73bb-a141-e7c83a0201c2"
+    },
+    {
+      "name": "Measurement Data: D3",
+      "measures": [
+        {
+          "name": "UV260",
+          "unit": "ArbitraryUnit",
+          "value": [
+            [
+              2.9707
+            ]
+          ]
+        }
+      ],
+      "dimensions": [
+        {
+          "name": "time",
+          "unit": "SecondTime",
+          "scale": [
+            0.0
+          ]
+        },
+        {
+          "name": "wavelength",
+          "unit": "Nanometer",
+          "scale": [
+            260.0
+          ]
+        }
+      ],
+      "fk_method": "019df997-697a-73ab-b355-359e71d4b3a2",
+      "fk_sample": "019df997-6980-73bb-a141-e7c96a97c567"
+    },
+    {
+      "name": "Measurement Data: D3",
+      "measures": [
+        {
+          "name": "UV280",
+          "unit": "ArbitraryUnit",
+          "value": [
+            [
+              1.5844
+            ]
+          ]
+        }
+      ],
+      "dimensions": [
+        {
+          "name": "time",
+          "unit": "SecondTime",
+          "scale": [
+            0.0
+          ]
+        },
+        {
+          "name": "wavelength",
+          "unit": "Nanometer",
+          "scale": [
+            280.0
+          ]
+        }
+      ],
+      "fk_method": "019df997-697a-73ab-b355-359e71d4b3a2",
+      "fk_sample": "019df997-6980-73bb-a141-e7c96a97c567"
+    },
+    {
+      "name": "Measurement Data: D4",
+      "measures": [
+        {
+          "name": "UV260",
+          "unit": "ArbitraryUnit",
+          "value": [
+            [
+              2.9972
+            ]
+          ]
+        }
+      ],
+      "dimensions": [
+        {
+          "name": "time",
+          "unit": "SecondTime",
+          "scale": [
+            0.0
+          ]
+        },
+        {
+          "name": "wavelength",
+          "unit": "Nanometer",
+          "scale": [
+            260.0
+          ]
+        }
+      ],
+      "fk_method": "019df997-697a-73ab-b355-359e71d4b3a2",
+      "fk_sample": "019df997-6980-73bb-a141-e7cade85f07e"
+    },
+    {
+      "name": "Measurement Data: D4",
+      "measures": [
+        {
+          "name": "UV280",
+          "unit": "ArbitraryUnit",
+          "value": [
+            [
+              1.6441
+            ]
+          ]
+        }
+      ],
+      "dimensions": [
+        {
+          "name": "time",
+          "unit": "SecondTime",
+          "scale": [
+            0.0
+          ]
+        },
+        {
+          "name": "wavelength",
+          "unit": "Nanometer",
+          "scale": [
+            280.0
+          ]
+        }
+      ],
+      "fk_method": "019df997-697a-73ab-b355-359e71d4b3a2",
+      "fk_sample": "019df997-6980-73bb-a141-e7cade85f07e"
+    },
+    {
+      "name": "Measurement Data: D5",
+      "measures": [
+        {
+          "name": "UV260",
+          "unit": "ArbitraryUnit",
+          "value": [
+            [
+              3.0181
+            ]
+          ]
+        }
+      ],
+      "dimensions": [
+        {
+          "name": "time",
+          "unit": "SecondTime",
+          "scale": [
+            0.0
+          ]
+        },
+        {
+          "name": "wavelength",
+          "unit": "Nanometer",
+          "scale": [
+            260.0
+          ]
+        }
+      ],
+      "fk_method": "019df997-697a-73ab-b355-359e71d4b3a2",
+      "fk_sample": "019df997-6980-73bb-a141-e7cb64cb8723"
+    },
+    {
+      "name": "Measurement Data: D5",
+      "measures": [
+        {
+          "name": "UV280",
+          "unit": "ArbitraryUnit",
+          "value": [
+            [
+              1.5662
+            ]
+          ]
+        }
+      ],
+      "dimensions": [
+        {
+          "name": "time",
+          "unit": "SecondTime",
+          "scale": [
+            0.0
+          ]
+        },
+        {
+          "name": "wavelength",
+          "unit": "Nanometer",
+          "scale": [
+            280.0
+          ]
+        }
+      ],
+      "fk_method": "019df997-697a-73ab-b355-359e71d4b3a2",
+      "fk_sample": "019df997-6980-73bb-a141-e7cb64cb8723"
+    },
+    {
+      "name": "Measurement Data: D6",
+      "measures": [
+        {
+          "name": "UV260",
+          "unit": "ArbitraryUnit",
+          "value": [
+            [
+              2.9986
+            ]
+          ]
+        }
+      ],
+      "dimensions": [
+        {
+          "name": "time",
+          "unit": "SecondTime",
+          "scale": [
+            0.0
+          ]
+        },
+        {
+          "name": "wavelength",
+          "unit": "Nanometer",
+          "scale": [
+            260.0
+          ]
+        }
+      ],
+      "fk_method": "019df997-697a-73ab-b355-359e71d4b3a2",
+      "fk_sample": "019df997-6980-73bb-a141-e7cc3055a69f"
+    },
+    {
+      "name": "Measurement Data: D6",
+      "measures": [
+        {
+          "name": "UV280",
+          "unit": "ArbitraryUnit",
+          "value": [
+            [
+              1.5569
+            ]
+          ]
+        }
+      ],
+      "dimensions": [
+        {
+          "name": "time",
+          "unit": "SecondTime",
+          "scale": [
+            0.0
+          ]
+        },
+        {
+          "name": "wavelength",
+          "unit": "Nanometer",
+          "scale": [
+            280.0
+          ]
+        }
+      ],
+      "fk_method": "019df997-697a-73ab-b355-359e71d4b3a2",
+      "fk_sample": "019df997-6980-73bb-a141-e7cc3055a69f"
+    },
+    {
+      "name": "Measurement Data: D7",
+      "measures": [
+        {
+          "name": "UV260",
+          "unit": "ArbitraryUnit",
+          "value": [
+            [
+              2.9773
+            ]
+          ]
+        }
+      ],
+      "dimensions": [
+        {
+          "name": "time",
+          "unit": "SecondTime",
+          "scale": [
+            0.0
+          ]
+        },
+        {
+          "name": "wavelength",
+          "unit": "Nanometer",
+          "scale": [
+            260.0
+          ]
+        }
+      ],
+      "fk_method": "019df997-697a-73ab-b355-359e71d4b3a2",
+      "fk_sample": "019df997-6980-73bb-a141-e7cdf707adf0"
+    },
+    {
+      "name": "Measurement Data: D7",
+      "measures": [
+        {
+          "name": "UV280",
+          "unit": "ArbitraryUnit",
+          "value": [
+            [
+              1.6181
+            ]
+          ]
+        }
+      ],
+      "dimensions": [
+        {
+          "name": "time",
+          "unit": "SecondTime",
+          "scale": [
+            0.0
+          ]
+        },
+        {
+          "name": "wavelength",
+          "unit": "Nanometer",
+          "scale": [
+            280.0
+          ]
+        }
+      ],
+      "fk_method": "019df997-697a-73ab-b355-359e71d4b3a2",
+      "fk_sample": "019df997-6980-73bb-a141-e7cdf707adf0"
+    },
+    {
+      "name": "Measurement Data: D8",
+      "measures": [
+        {
+          "name": "UV260",
+          "unit": "ArbitraryUnit",
+          "value": [
+            [
+              3.0321
+            ]
+          ]
+        }
+      ],
+      "dimensions": [
+        {
+          "name": "time",
+          "unit": "SecondTime",
+          "scale": [
+            0.0
+          ]
+        },
+        {
+          "name": "wavelength",
+          "unit": "Nanometer",
+          "scale": [
+            260.0
+          ]
+        }
+      ],
+      "fk_method": "019df997-697a-73ab-b355-359e71d4b3a2",
+      "fk_sample": "019df997-6981-7588-b3b0-eeaff7f34e4a"
+    },
+    {
+      "name": "Measurement Data: D8",
+      "measures": [
+        {
+          "name": "UV280",
+          "unit": "ArbitraryUnit",
+          "value": [
+            [
+              1.4798
+            ]
+          ]
+        }
+      ],
+      "dimensions": [
+        {
+          "name": "time",
+          "unit": "SecondTime",
+          "scale": [
+            0.0
+          ]
+        },
+        {
+          "name": "wavelength",
+          "unit": "Nanometer",
+          "scale": [
+            280.0
+          ]
+        }
+      ],
+      "fk_method": "019df997-697a-73ab-b355-359e71d4b3a2",
+      "fk_sample": "019df997-6981-7588-b3b0-eeaff7f34e4a"
+    },
+    {
+      "name": "Measurement Data: D9",
+      "measures": [
+        {
+          "name": "UV260",
+          "unit": "ArbitraryUnit",
+          "value": [
+            [
+              3.0154
+            ]
+          ]
+        }
+      ],
+      "dimensions": [
+        {
+          "name": "time",
+          "unit": "SecondTime",
+          "scale": [
+            0.0
+          ]
+        },
+        {
+          "name": "wavelength",
+          "unit": "Nanometer",
+          "scale": [
+            260.0
+          ]
+        }
+      ],
+      "fk_method": "019df997-697a-73ab-b355-359e71d4b3a2",
+      "fk_sample": "019df997-6981-7588-b3b0-eeb035f7b927"
+    },
+    {
+      "name": "Measurement Data: D9",
+      "measures": [
+        {
+          "name": "UV280",
+          "unit": "ArbitraryUnit",
+          "value": [
+            [
+              1.4935
+            ]
+          ]
+        }
+      ],
+      "dimensions": [
+        {
+          "name": "time",
+          "unit": "SecondTime",
+          "scale": [
+            0.0
+          ]
+        },
+        {
+          "name": "wavelength",
+          "unit": "Nanometer",
+          "scale": [
+            280.0
+          ]
+        }
+      ],
+      "fk_method": "019df997-697a-73ab-b355-359e71d4b3a2",
+      "fk_sample": "019df997-6981-7588-b3b0-eeb035f7b927"
+    },
+    {
+      "name": "Measurement Data: D10",
+      "measures": [
+        {
+          "name": "UV260",
+          "unit": "ArbitraryUnit",
+          "value": [
+            [
+              3.0421
+            ]
+          ]
+        }
+      ],
+      "dimensions": [
+        {
+          "name": "time",
+          "unit": "SecondTime",
+          "scale": [
+            0.0
+          ]
+        },
+        {
+          "name": "wavelength",
+          "unit": "Nanometer",
+          "scale": [
+            260.0
+          ]
+        }
+      ],
+      "fk_method": "019df997-697a-73ab-b355-359e71d4b3a2",
+      "fk_sample": "019df997-6981-7588-b3b0-eeb1107c26a9"
+    },
+    {
+      "name": "Measurement Data: D10",
+      "measures": [
+        {
+          "name": "UV280",
+          "unit": "ArbitraryUnit",
+          "value": [
+            [
+              1.7554
+            ]
+          ]
+        }
+      ],
+      "dimensions": [
+        {
+          "name": "time",
+          "unit": "SecondTime",
+          "scale": [
+            0.0
+          ]
+        },
+        {
+          "name": "wavelength",
+          "unit": "Nanometer",
+          "scale": [
+            280.0
+          ]
+        }
+      ],
+      "fk_method": "019df997-697a-73ab-b355-359e71d4b3a2",
+      "fk_sample": "019df997-6981-7588-b3b0-eeb1107c26a9"
+    },
+    {
+      "name": "Measurement Data: D11",
+      "measures": [
+        {
+          "name": "UV260",
+          "unit": "ArbitraryUnit",
+          "value": [
+            [
+              3.0096
+            ]
+          ]
+        }
+      ],
+      "dimensions": [
+        {
+          "name": "time",
+          "unit": "SecondTime",
+          "scale": [
+            0.0
+          ]
+        },
+        {
+          "name": "wavelength",
+          "unit": "Nanometer",
+          "scale": [
+            260.0
+          ]
+        }
+      ],
+      "fk_method": "019df997-697a-73ab-b355-359e71d4b3a2",
+      "fk_sample": "019df997-6981-7588-b3b0-eeb2d8973cae"
+    },
+    {
+      "name": "Measurement Data: D11",
+      "measures": [
+        {
+          "name": "UV280",
+          "unit": "ArbitraryUnit",
+          "value": [
+            [
+              1.641
+            ]
+          ]
+        }
+      ],
+      "dimensions": [
+        {
+          "name": "time",
+          "unit": "SecondTime",
+          "scale": [
+            0.0
+          ]
+        },
+        {
+          "name": "wavelength",
+          "unit": "Nanometer",
+          "scale": [
+            280.0
+          ]
+        }
+      ],
+      "fk_method": "019df997-697a-73ab-b355-359e71d4b3a2",
+      "fk_sample": "019df997-6981-7588-b3b0-eeb2d8973cae"
+    },
+    {
+      "name": "Measurement Data: D12",
+      "measures": [
+        {
+          "name": "UV260",
+          "unit": "ArbitraryUnit",
+          "value": [
+            [
+              3.0067
+            ]
+          ]
+        }
+      ],
+      "dimensions": [
+        {
+          "name": "time",
+          "unit": "SecondTime",
+          "scale": [
+            0.0
+          ]
+        },
+        {
+          "name": "wavelength",
+          "unit": "Nanometer",
+          "scale": [
+            260.0
+          ]
+        }
+      ],
+      "fk_method": "019df997-697a-73ab-b355-359e71d4b3a2",
+      "fk_sample": "019df997-6981-7588-b3b0-eeb3754ad596"
+    },
+    {
+      "name": "Measurement Data: D12",
+      "measures": [
+        {
+          "name": "UV280",
+          "unit": "ArbitraryUnit",
+          "value": [
+            [
+              1.5563
+            ]
+          ]
+        }
+      ],
+      "dimensions": [
+        {
+          "name": "time",
+          "unit": "SecondTime",
+          "scale": [
+            0.0
+          ]
+        },
+        {
+          "name": "wavelength",
+          "unit": "Nanometer",
+          "scale": [
+            280.0
+          ]
+        }
+      ],
+      "fk_method": "019df997-697a-73ab-b355-359e71d4b3a2",
+      "fk_sample": "019df997-6981-7588-b3b0-eeb3754ad596"
+    },
+    {
+      "name": "Measurement Data: E1",
+      "measures": [
+        {
+          "name": "UV260",
+          "unit": "ArbitraryUnit",
+          "value": [
+            [
+              2.8896
+            ]
+          ]
+        }
+      ],
+      "dimensions": [
+        {
+          "name": "time",
+          "unit": "SecondTime",
+          "scale": [
+            0.0
+          ]
+        },
+        {
+          "name": "wavelength",
+          "unit": "Nanometer",
+          "scale": [
+            260.0
+          ]
+        }
+      ],
+      "fk_method": "019df997-697a-73ab-b355-359e71d4b3a2",
+      "fk_sample": "019df997-6981-7588-b3b0-eeb433cb6683"
+    },
+    {
+      "name": "Measurement Data: E1",
+      "measures": [
+        {
+          "name": "UV280",
+          "unit": "ArbitraryUnit",
+          "value": [
+            [
+              1.6493
+            ]
+          ]
+        }
+      ],
+      "dimensions": [
+        {
+          "name": "time",
+          "unit": "SecondTime",
+          "scale": [
+            0.0
+          ]
+        },
+        {
+          "name": "wavelength",
+          "unit": "Nanometer",
+          "scale": [
+            280.0
+          ]
+        }
+      ],
+      "fk_method": "019df997-697a-73ab-b355-359e71d4b3a2",
+      "fk_sample": "019df997-6981-7588-b3b0-eeb433cb6683"
+    },
+    {
+      "name": "Measurement Data: E2",
+      "measures": [
+        {
+          "name": "UV260",
+          "unit": "ArbitraryUnit",
+          "value": [
+            [
+              2.9722
+            ]
+          ]
+        }
+      ],
+      "dimensions": [
+        {
+          "name": "time",
+          "unit": "SecondTime",
+          "scale": [
+            0.0
+          ]
+        },
+        {
+          "name": "wavelength",
+          "unit": "Nanometer",
+          "scale": [
+            260.0
+          ]
+        }
+      ],
+      "fk_method": "019df997-697a-73ab-b355-359e71d4b3a2",
+      "fk_sample": "019df997-6981-7588-b3b0-eeb549d0e778"
+    },
+    {
+      "name": "Measurement Data: E2",
+      "measures": [
+        {
+          "name": "UV280",
+          "unit": "ArbitraryUnit",
+          "value": [
+            [
+              1.5087
+            ]
+          ]
+        }
+      ],
+      "dimensions": [
+        {
+          "name": "time",
+          "unit": "SecondTime",
+          "scale": [
+            0.0
+          ]
+        },
+        {
+          "name": "wavelength",
+          "unit": "Nanometer",
+          "scale": [
+            280.0
+          ]
+        }
+      ],
+      "fk_method": "019df997-697a-73ab-b355-359e71d4b3a2",
+      "fk_sample": "019df997-6981-7588-b3b0-eeb549d0e778"
+    },
+    {
+      "name": "Measurement Data: E3",
+      "measures": [
+        {
+          "name": "UV260",
+          "unit": "ArbitraryUnit",
+          "value": [
+            [
+              2.9906
+            ]
+          ]
+        }
+      ],
+      "dimensions": [
+        {
+          "name": "time",
+          "unit": "SecondTime",
+          "scale": [
+            0.0
+          ]
+        },
+        {
+          "name": "wavelength",
+          "unit": "Nanometer",
+          "scale": [
+            260.0
+          ]
+        }
+      ],
+      "fk_method": "019df997-697a-73ab-b355-359e71d4b3a2",
+      "fk_sample": "019df997-6981-7588-b3b0-eeb674a5a1a3"
+    },
+    {
+      "name": "Measurement Data: E3",
+      "measures": [
+        {
+          "name": "UV280",
+          "unit": "ArbitraryUnit",
+          "value": [
+            [
+              1.5609
+            ]
+          ]
+        }
+      ],
+      "dimensions": [
+        {
+          "name": "time",
+          "unit": "SecondTime",
+          "scale": [
+            0.0
+          ]
+        },
+        {
+          "name": "wavelength",
+          "unit": "Nanometer",
+          "scale": [
+            280.0
+          ]
+        }
+      ],
+      "fk_method": "019df997-697a-73ab-b355-359e71d4b3a2",
+      "fk_sample": "019df997-6981-7588-b3b0-eeb674a5a1a3"
+    },
+    {
+      "name": "Measurement Data: E4",
+      "measures": [
+        {
+          "name": "UV260",
+          "unit": "ArbitraryUnit",
+          "value": [
+            [
+              2.9975
+            ]
+          ]
+        }
+      ],
+      "dimensions": [
+        {
+          "name": "time",
+          "unit": "SecondTime",
+          "scale": [
+            0.0
+          ]
+        },
+        {
+          "name": "wavelength",
+          "unit": "Nanometer",
+          "scale": [
+            260.0
+          ]
+        }
+      ],
+      "fk_method": "019df997-697a-73ab-b355-359e71d4b3a2",
+      "fk_sample": "019df997-6981-7588-b3b0-eeb77378e881"
+    },
+    {
+      "name": "Measurement Data: E4",
+      "measures": [
+        {
+          "name": "UV280",
+          "unit": "ArbitraryUnit",
+          "value": [
+            [
+              1.4781
+            ]
+          ]
+        }
+      ],
+      "dimensions": [
+        {
+          "name": "time",
+          "unit": "SecondTime",
+          "scale": [
+            0.0
+          ]
+        },
+        {
+          "name": "wavelength",
+          "unit": "Nanometer",
+          "scale": [
+            280.0
+          ]
+        }
+      ],
+      "fk_method": "019df997-697a-73ab-b355-359e71d4b3a2",
+      "fk_sample": "019df997-6981-7588-b3b0-eeb77378e881"
+    },
+    {
+      "name": "Measurement Data: E5",
+      "measures": [
+        {
+          "name": "UV260",
+          "unit": "ArbitraryUnit",
+          "value": [
+            [
+              2.9824
+            ]
+          ]
+        }
+      ],
+      "dimensions": [
+        {
+          "name": "time",
+          "unit": "SecondTime",
+          "scale": [
+            0.0
+          ]
+        },
+        {
+          "name": "wavelength",
+          "unit": "Nanometer",
+          "scale": [
+            260.0
+          ]
+        }
+      ],
+      "fk_method": "019df997-697a-73ab-b355-359e71d4b3a2",
+      "fk_sample": "019df997-6981-7588-b3b0-eeb8a9e812d7"
+    },
+    {
+      "name": "Measurement Data: E5",
+      "measures": [
+        {
+          "name": "UV280",
+          "unit": "ArbitraryUnit",
+          "value": [
+            [
+              1.5185
+            ]
+          ]
+        }
+      ],
+      "dimensions": [
+        {
+          "name": "time",
+          "unit": "SecondTime",
+          "scale": [
+            0.0
+          ]
+        },
+        {
+          "name": "wavelength",
+          "unit": "Nanometer",
+          "scale": [
+            280.0
+          ]
+        }
+      ],
+      "fk_method": "019df997-697a-73ab-b355-359e71d4b3a2",
+      "fk_sample": "019df997-6981-7588-b3b0-eeb8a9e812d7"
+    },
+    {
+      "name": "Measurement Data: E6",
+      "measures": [
+        {
+          "name": "UV260",
+          "unit": "ArbitraryUnit",
+          "value": [
+            [
+              2.9832
+            ]
+          ]
+        }
+      ],
+      "dimensions": [
+        {
+          "name": "time",
+          "unit": "SecondTime",
+          "scale": [
+            0.0
+          ]
+        },
+        {
+          "name": "wavelength",
+          "unit": "Nanometer",
+          "scale": [
+            260.0
+          ]
+        }
+      ],
+      "fk_method": "019df997-697a-73ab-b355-359e71d4b3a2",
+      "fk_sample": "019df997-6981-7588-b3b0-eeb9215898ee"
+    },
+    {
+      "name": "Measurement Data: E6",
+      "measures": [
+        {
+          "name": "UV280",
+          "unit": "ArbitraryUnit",
+          "value": [
+            [
+              1.6436
+            ]
+          ]
+        }
+      ],
+      "dimensions": [
+        {
+          "name": "time",
+          "unit": "SecondTime",
+          "scale": [
+            0.0
+          ]
+        },
+        {
+          "name": "wavelength",
+          "unit": "Nanometer",
+          "scale": [
+            280.0
+          ]
+        }
+      ],
+      "fk_method": "019df997-697a-73ab-b355-359e71d4b3a2",
+      "fk_sample": "019df997-6981-7588-b3b0-eeb9215898ee"
+    },
+    {
+      "name": "Measurement Data: E7",
+      "measures": [
+        {
+          "name": "UV260",
+          "unit": "ArbitraryUnit",
+          "value": [
+            [
+              3.009
+            ]
+          ]
+        }
+      ],
+      "dimensions": [
+        {
+          "name": "time",
+          "unit": "SecondTime",
+          "scale": [
+            0.0
+          ]
+        },
+        {
+          "name": "wavelength",
+          "unit": "Nanometer",
+          "scale": [
+            260.0
+          ]
+        }
+      ],
+      "fk_method": "019df997-697a-73ab-b355-359e71d4b3a2",
+      "fk_sample": "019df997-6981-7588-b3b0-eeba8c95e782"
+    },
+    {
+      "name": "Measurement Data: E7",
+      "measures": [
+        {
+          "name": "UV280",
+          "unit": "ArbitraryUnit",
+          "value": [
+            [
+              1.5854
+            ]
+          ]
+        }
+      ],
+      "dimensions": [
+        {
+          "name": "time",
+          "unit": "SecondTime",
+          "scale": [
+            0.0
+          ]
+        },
+        {
+          "name": "wavelength",
+          "unit": "Nanometer",
+          "scale": [
+            280.0
+          ]
+        }
+      ],
+      "fk_method": "019df997-697a-73ab-b355-359e71d4b3a2",
+      "fk_sample": "019df997-6981-7588-b3b0-eeba8c95e782"
+    },
+    {
+      "name": "Measurement Data: E8",
+      "measures": [
+        {
+          "name": "UV260",
+          "unit": "ArbitraryUnit",
+          "value": [
+            [
+              3.0218
+            ]
+          ]
+        }
+      ],
+      "dimensions": [
+        {
+          "name": "time",
+          "unit": "SecondTime",
+          "scale": [
+            0.0
+          ]
+        },
+        {
+          "name": "wavelength",
+          "unit": "Nanometer",
+          "scale": [
+            260.0
+          ]
+        }
+      ],
+      "fk_method": "019df997-697a-73ab-b355-359e71d4b3a2",
+      "fk_sample": "019df997-6982-7329-bc7b-91e4dd6e8178"
+    },
+    {
+      "name": "Measurement Data: E8",
+      "measures": [
+        {
+          "name": "UV280",
+          "unit": "ArbitraryUnit",
+          "value": [
+            [
+              1.6116
+            ]
+          ]
+        }
+      ],
+      "dimensions": [
+        {
+          "name": "time",
+          "unit": "SecondTime",
+          "scale": [
+            0.0
+          ]
+        },
+        {
+          "name": "wavelength",
+          "unit": "Nanometer",
+          "scale": [
+            280.0
+          ]
+        }
+      ],
+      "fk_method": "019df997-697a-73ab-b355-359e71d4b3a2",
+      "fk_sample": "019df997-6982-7329-bc7b-91e4dd6e8178"
+    },
+    {
+      "name": "Measurement Data: E9",
+      "measures": [
+        {
+          "name": "UV260",
+          "unit": "ArbitraryUnit",
+          "value": [
+            [
+              3.0545
+            ]
+          ]
+        }
+      ],
+      "dimensions": [
+        {
+          "name": "time",
+          "unit": "SecondTime",
+          "scale": [
+            0.0
+          ]
+        },
+        {
+          "name": "wavelength",
+          "unit": "Nanometer",
+          "scale": [
+            260.0
+          ]
+        }
+      ],
+      "fk_method": "019df997-697a-73ab-b355-359e71d4b3a2",
+      "fk_sample": "019df997-6982-7329-bc7b-91e5ec29baf7"
+    },
+    {
+      "name": "Measurement Data: E9",
+      "measures": [
+        {
+          "name": "UV280",
+          "unit": "ArbitraryUnit",
+          "value": [
+            [
+              1.5129
+            ]
+          ]
+        }
+      ],
+      "dimensions": [
+        {
+          "name": "time",
+          "unit": "SecondTime",
+          "scale": [
+            0.0
+          ]
+        },
+        {
+          "name": "wavelength",
+          "unit": "Nanometer",
+          "scale": [
+            280.0
+          ]
+        }
+      ],
+      "fk_method": "019df997-697a-73ab-b355-359e71d4b3a2",
+      "fk_sample": "019df997-6982-7329-bc7b-91e5ec29baf7"
+    },
+    {
+      "name": "Measurement Data: E10",
+      "measures": [
+        {
+          "name": "UV260",
+          "unit": "ArbitraryUnit",
+          "value": [
+            [
+              3.0108
+            ]
+          ]
+        }
+      ],
+      "dimensions": [
+        {
+          "name": "time",
+          "unit": "SecondTime",
+          "scale": [
+            0.0
+          ]
+        },
+        {
+          "name": "wavelength",
+          "unit": "Nanometer",
+          "scale": [
+            260.0
+          ]
+        }
+      ],
+      "fk_method": "019df997-697a-73ab-b355-359e71d4b3a2",
+      "fk_sample": "019df997-6982-7329-bc7b-91e6776304b9"
+    },
+    {
+      "name": "Measurement Data: E10",
+      "measures": [
+        {
+          "name": "UV280",
+          "unit": "ArbitraryUnit",
+          "value": [
+            [
+              1.631
+            ]
+          ]
+        }
+      ],
+      "dimensions": [
+        {
+          "name": "time",
+          "unit": "SecondTime",
+          "scale": [
+            0.0
+          ]
+        },
+        {
+          "name": "wavelength",
+          "unit": "Nanometer",
+          "scale": [
+            280.0
+          ]
+        }
+      ],
+      "fk_method": "019df997-697a-73ab-b355-359e71d4b3a2",
+      "fk_sample": "019df997-6982-7329-bc7b-91e6776304b9"
+    },
+    {
+      "name": "Measurement Data: E11",
+      "measures": [
+        {
+          "name": "UV260",
+          "unit": "ArbitraryUnit",
+          "value": [
+            [
+              3.0005
+            ]
+          ]
+        }
+      ],
+      "dimensions": [
+        {
+          "name": "time",
+          "unit": "SecondTime",
+          "scale": [
+            0.0
+          ]
+        },
+        {
+          "name": "wavelength",
+          "unit": "Nanometer",
+          "scale": [
+            260.0
+          ]
+        }
+      ],
+      "fk_method": "019df997-697a-73ab-b355-359e71d4b3a2",
+      "fk_sample": "019df997-6982-7329-bc7b-91e7c1e9d9e0"
+    },
+    {
+      "name": "Measurement Data: E11",
+      "measures": [
+        {
+          "name": "UV280",
+          "unit": "ArbitraryUnit",
+          "value": [
+            [
+              1.6245
+            ]
+          ]
+        }
+      ],
+      "dimensions": [
+        {
+          "name": "time",
+          "unit": "SecondTime",
+          "scale": [
+            0.0
+          ]
+        },
+        {
+          "name": "wavelength",
+          "unit": "Nanometer",
+          "scale": [
+            280.0
+          ]
+        }
+      ],
+      "fk_method": "019df997-697a-73ab-b355-359e71d4b3a2",
+      "fk_sample": "019df997-6982-7329-bc7b-91e7c1e9d9e0"
+    },
+    {
+      "name": "Measurement Data: E12",
+      "measures": [
+        {
+          "name": "UV260",
+          "unit": "ArbitraryUnit",
+          "value": [
+            [
+              2.977
+            ]
+          ]
+        }
+      ],
+      "dimensions": [
+        {
+          "name": "time",
+          "unit": "SecondTime",
+          "scale": [
+            0.0
+          ]
+        },
+        {
+          "name": "wavelength",
+          "unit": "Nanometer",
+          "scale": [
+            260.0
+          ]
+        }
+      ],
+      "fk_method": "019df997-697a-73ab-b355-359e71d4b3a2",
+      "fk_sample": "019df997-6982-7329-bc7b-91e8e91a51cf"
+    },
+    {
+      "name": "Measurement Data: E12",
+      "measures": [
+        {
+          "name": "UV280",
+          "unit": "ArbitraryUnit",
+          "value": [
+            [
+              1.6277
+            ]
+          ]
+        }
+      ],
+      "dimensions": [
+        {
+          "name": "time",
+          "unit": "SecondTime",
+          "scale": [
+            0.0
+          ]
+        },
+        {
+          "name": "wavelength",
+          "unit": "Nanometer",
+          "scale": [
+            280.0
+          ]
+        }
+      ],
+      "fk_method": "019df997-697a-73ab-b355-359e71d4b3a2",
+      "fk_sample": "019df997-6982-7329-bc7b-91e8e91a51cf"
+    },
+    {
+      "name": "Measurement Data: F1",
+      "measures": [
+        {
+          "name": "UV260",
+          "unit": "ArbitraryUnit",
+          "value": [
+            [
+              2.9577
+            ]
+          ]
+        }
+      ],
+      "dimensions": [
+        {
+          "name": "time",
+          "unit": "SecondTime",
+          "scale": [
+            0.0
+          ]
+        },
+        {
+          "name": "wavelength",
+          "unit": "Nanometer",
+          "scale": [
+            260.0
+          ]
+        }
+      ],
+      "fk_method": "019df997-697a-73ab-b355-359e71d4b3a2",
+      "fk_sample": "019df997-6982-7329-bc7b-91e9f3164d4c"
+    },
+    {
+      "name": "Measurement Data: F1",
+      "measures": [
+        {
+          "name": "UV280",
+          "unit": "ArbitraryUnit",
+          "value": [
+            [
+              1.7037
+            ]
+          ]
+        }
+      ],
+      "dimensions": [
+        {
+          "name": "time",
+          "unit": "SecondTime",
+          "scale": [
+            0.0
+          ]
+        },
+        {
+          "name": "wavelength",
+          "unit": "Nanometer",
+          "scale": [
+            280.0
+          ]
+        }
+      ],
+      "fk_method": "019df997-697a-73ab-b355-359e71d4b3a2",
+      "fk_sample": "019df997-6982-7329-bc7b-91e9f3164d4c"
+    },
+    {
+      "name": "Measurement Data: F2",
+      "measures": [
+        {
+          "name": "UV260",
+          "unit": "ArbitraryUnit",
+          "value": [
+            [
+              2.9933
+            ]
+          ]
+        }
+      ],
+      "dimensions": [
+        {
+          "name": "time",
+          "unit": "SecondTime",
+          "scale": [
+            0.0
+          ]
+        },
+        {
+          "name": "wavelength",
+          "unit": "Nanometer",
+          "scale": [
+            260.0
+          ]
+        }
+      ],
+      "fk_method": "019df997-697a-73ab-b355-359e71d4b3a2",
+      "fk_sample": "019df997-6982-7329-bc7b-91eabeb49a5e"
+    },
+    {
+      "name": "Measurement Data: F2",
+      "measures": [
+        {
+          "name": "UV280",
+          "unit": "ArbitraryUnit",
+          "value": [
+            [
+              1.5779
+            ]
+          ]
+        }
+      ],
+      "dimensions": [
+        {
+          "name": "time",
+          "unit": "SecondTime",
+          "scale": [
+            0.0
+          ]
+        },
+        {
+          "name": "wavelength",
+          "unit": "Nanometer",
+          "scale": [
+            280.0
+          ]
+        }
+      ],
+      "fk_method": "019df997-697a-73ab-b355-359e71d4b3a2",
+      "fk_sample": "019df997-6982-7329-bc7b-91eabeb49a5e"
+    },
+    {
+      "name": "Measurement Data: F3",
+      "measures": [
+        {
+          "name": "UV260",
+          "unit": "ArbitraryUnit",
+          "value": [
+            [
+              2.9887
+            ]
+          ]
+        }
+      ],
+      "dimensions": [
+        {
+          "name": "time",
+          "unit": "SecondTime",
+          "scale": [
+            0.0
+          ]
+        },
+        {
+          "name": "wavelength",
+          "unit": "Nanometer",
+          "scale": [
+            260.0
+          ]
+        }
+      ],
+      "fk_method": "019df997-697a-73ab-b355-359e71d4b3a2",
+      "fk_sample": "019df997-6982-7329-bc7b-91eba9c27541"
+    },
+    {
+      "name": "Measurement Data: F3",
+      "measures": [
+        {
+          "name": "UV280",
+          "unit": "ArbitraryUnit",
+          "value": [
+            [
+              1.5156
+            ]
+          ]
+        }
+      ],
+      "dimensions": [
+        {
+          "name": "time",
+          "unit": "SecondTime",
+          "scale": [
+            0.0
+          ]
+        },
+        {
+          "name": "wavelength",
+          "unit": "Nanometer",
+          "scale": [
+            280.0
+          ]
+        }
+      ],
+      "fk_method": "019df997-697a-73ab-b355-359e71d4b3a2",
+      "fk_sample": "019df997-6982-7329-bc7b-91eba9c27541"
+    },
+    {
+      "name": "Measurement Data: F4",
+      "measures": [
+        {
+          "name": "UV260",
+          "unit": "ArbitraryUnit",
+          "value": [
+            [
+              2.9928
+            ]
+          ]
+        }
+      ],
+      "dimensions": [
+        {
+          "name": "time",
+          "unit": "SecondTime",
+          "scale": [
+            0.0
+          ]
+        },
+        {
+          "name": "wavelength",
+          "unit": "Nanometer",
+          "scale": [
+            260.0
+          ]
+        }
+      ],
+      "fk_method": "019df997-697a-73ab-b355-359e71d4b3a2",
+      "fk_sample": "019df997-6982-7329-bc7b-91ec280d84c5"
+    },
+    {
+      "name": "Measurement Data: F4",
+      "measures": [
+        {
+          "name": "UV280",
+          "unit": "ArbitraryUnit",
+          "value": [
+            [
+              1.4721
+            ]
+          ]
+        }
+      ],
+      "dimensions": [
+        {
+          "name": "time",
+          "unit": "SecondTime",
+          "scale": [
+            0.0
+          ]
+        },
+        {
+          "name": "wavelength",
+          "unit": "Nanometer",
+          "scale": [
+            280.0
+          ]
+        }
+      ],
+      "fk_method": "019df997-697a-73ab-b355-359e71d4b3a2",
+      "fk_sample": "019df997-6982-7329-bc7b-91ec280d84c5"
+    },
+    {
+      "name": "Measurement Data: F5",
+      "measures": [
+        {
+          "name": "UV260",
+          "unit": "ArbitraryUnit",
+          "value": [
+            [
+              2.9962
+            ]
+          ]
+        }
+      ],
+      "dimensions": [
+        {
+          "name": "time",
+          "unit": "SecondTime",
+          "scale": [
+            0.0
+          ]
+        },
+        {
+          "name": "wavelength",
+          "unit": "Nanometer",
+          "scale": [
+            260.0
+          ]
+        }
+      ],
+      "fk_method": "019df997-697a-73ab-b355-359e71d4b3a2",
+      "fk_sample": "019df997-6982-7329-bc7b-91eda3f0fd1d"
+    },
+    {
+      "name": "Measurement Data: F5",
+      "measures": [
+        {
+          "name": "UV280",
+          "unit": "ArbitraryUnit",
+          "value": [
+            [
+              1.5524
+            ]
+          ]
+        }
+      ],
+      "dimensions": [
+        {
+          "name": "time",
+          "unit": "SecondTime",
+          "scale": [
+            0.0
+          ]
+        },
+        {
+          "name": "wavelength",
+          "unit": "Nanometer",
+          "scale": [
+            280.0
+          ]
+        }
+      ],
+      "fk_method": "019df997-697a-73ab-b355-359e71d4b3a2",
+      "fk_sample": "019df997-6982-7329-bc7b-91eda3f0fd1d"
+    },
+    {
+      "name": "Measurement Data: F6",
+      "measures": [
+        {
+          "name": "UV260",
+          "unit": "ArbitraryUnit",
+          "value": [
+            [
+              3.0077
+            ]
+          ]
+        }
+      ],
+      "dimensions": [
+        {
+          "name": "time",
+          "unit": "SecondTime",
+          "scale": [
+            0.0
+          ]
+        },
+        {
+          "name": "wavelength",
+          "unit": "Nanometer",
+          "scale": [
+            260.0
+          ]
+        }
+      ],
+      "fk_method": "019df997-697a-73ab-b355-359e71d4b3a2",
+      "fk_sample": "019df997-6982-7329-bc7b-91eebbcc8103"
+    },
+    {
+      "name": "Measurement Data: F6",
+      "measures": [
+        {
+          "name": "UV280",
+          "unit": "ArbitraryUnit",
+          "value": [
+            [
+              1.4904
+            ]
+          ]
+        }
+      ],
+      "dimensions": [
+        {
+          "name": "time",
+          "unit": "SecondTime",
+          "scale": [
+            0.0
+          ]
+        },
+        {
+          "name": "wavelength",
+          "unit": "Nanometer",
+          "scale": [
+            280.0
+          ]
+        }
+      ],
+      "fk_method": "019df997-697a-73ab-b355-359e71d4b3a2",
+      "fk_sample": "019df997-6982-7329-bc7b-91eebbcc8103"
+    },
+    {
+      "name": "Measurement Data: F7",
+      "measures": [
+        {
+          "name": "UV260",
+          "unit": "ArbitraryUnit",
+          "value": [
+            [
+              3.0023
+            ]
+          ]
+        }
+      ],
+      "dimensions": [
+        {
+          "name": "time",
+          "unit": "SecondTime",
+          "scale": [
+            0.0
+          ]
+        },
+        {
+          "name": "wavelength",
+          "unit": "Nanometer",
+          "scale": [
+            260.0
+          ]
+        }
+      ],
+      "fk_method": "019df997-697a-73ab-b355-359e71d4b3a2",
+      "fk_sample": "019df997-6983-774a-b02f-ebbd81839ed1"
+    },
+    {
+      "name": "Measurement Data: F7",
+      "measures": [
+        {
+          "name": "UV280",
+          "unit": "ArbitraryUnit",
+          "value": [
+            [
+              1.4937
+            ]
+          ]
+        }
+      ],
+      "dimensions": [
+        {
+          "name": "time",
+          "unit": "SecondTime",
+          "scale": [
+            0.0
+          ]
+        },
+        {
+          "name": "wavelength",
+          "unit": "Nanometer",
+          "scale": [
+            280.0
+          ]
+        }
+      ],
+      "fk_method": "019df997-697a-73ab-b355-359e71d4b3a2",
+      "fk_sample": "019df997-6983-774a-b02f-ebbd81839ed1"
+    },
+    {
+      "name": "Measurement Data: F8",
+      "measures": [
+        {
+          "name": "UV260",
+          "unit": "ArbitraryUnit",
+          "value": [
+            [
+              3.0276
+            ]
+          ]
+        }
+      ],
+      "dimensions": [
+        {
+          "name": "time",
+          "unit": "SecondTime",
+          "scale": [
+            0.0
+          ]
+        },
+        {
+          "name": "wavelength",
+          "unit": "Nanometer",
+          "scale": [
+            260.0
+          ]
+        }
+      ],
+      "fk_method": "019df997-697a-73ab-b355-359e71d4b3a2",
+      "fk_sample": "019df997-6983-774a-b02f-ebbe86c3f5b1"
+    },
+    {
+      "name": "Measurement Data: F8",
+      "measures": [
+        {
+          "name": "UV280",
+          "unit": "ArbitraryUnit",
+          "value": [
+            [
+              1.732
+            ]
+          ]
+        }
+      ],
+      "dimensions": [
+        {
+          "name": "time",
+          "unit": "SecondTime",
+          "scale": [
+            0.0
+          ]
+        },
+        {
+          "name": "wavelength",
+          "unit": "Nanometer",
+          "scale": [
+            280.0
+          ]
+        }
+      ],
+      "fk_method": "019df997-697a-73ab-b355-359e71d4b3a2",
+      "fk_sample": "019df997-6983-774a-b02f-ebbe86c3f5b1"
+    },
+    {
+      "name": "Measurement Data: F9",
+      "measures": [
+        {
+          "name": "UV260",
+          "unit": "ArbitraryUnit",
+          "value": [
+            [
+              3.0155
+            ]
+          ]
+        }
+      ],
+      "dimensions": [
+        {
+          "name": "time",
+          "unit": "SecondTime",
+          "scale": [
+            0.0
+          ]
+        },
+        {
+          "name": "wavelength",
+          "unit": "Nanometer",
+          "scale": [
+            260.0
+          ]
+        }
+      ],
+      "fk_method": "019df997-697a-73ab-b355-359e71d4b3a2",
+      "fk_sample": "019df997-6983-774a-b02f-ebbf9801958a"
+    },
+    {
+      "name": "Measurement Data: F9",
+      "measures": [
+        {
+          "name": "UV280",
+          "unit": "ArbitraryUnit",
+          "value": [
+            [
+              1.9787
+            ]
+          ]
+        }
+      ],
+      "dimensions": [
+        {
+          "name": "time",
+          "unit": "SecondTime",
+          "scale": [
+            0.0
+          ]
+        },
+        {
+          "name": "wavelength",
+          "unit": "Nanometer",
+          "scale": [
+            280.0
+          ]
+        }
+      ],
+      "fk_method": "019df997-697a-73ab-b355-359e71d4b3a2",
+      "fk_sample": "019df997-6983-774a-b02f-ebbf9801958a"
+    },
+    {
+      "name": "Measurement Data: F10",
+      "measures": [
+        {
+          "name": "UV260",
+          "unit": "ArbitraryUnit",
+          "value": [
+            [
+              3.0318
+            ]
+          ]
+        }
+      ],
+      "dimensions": [
+        {
+          "name": "time",
+          "unit": "SecondTime",
+          "scale": [
+            0.0
+          ]
+        },
+        {
+          "name": "wavelength",
+          "unit": "Nanometer",
+          "scale": [
+            260.0
+          ]
+        }
+      ],
+      "fk_method": "019df997-697a-73ab-b355-359e71d4b3a2",
+      "fk_sample": "019df997-6983-774a-b02f-ebc0004d5c0f"
+    },
+    {
+      "name": "Measurement Data: F10",
+      "measures": [
+        {
+          "name": "UV280",
+          "unit": "ArbitraryUnit",
+          "value": [
+            [
+              1.5243
+            ]
+          ]
+        }
+      ],
+      "dimensions": [
+        {
+          "name": "time",
+          "unit": "SecondTime",
+          "scale": [
+            0.0
+          ]
+        },
+        {
+          "name": "wavelength",
+          "unit": "Nanometer",
+          "scale": [
+            280.0
+          ]
+        }
+      ],
+      "fk_method": "019df997-697a-73ab-b355-359e71d4b3a2",
+      "fk_sample": "019df997-6983-774a-b02f-ebc0004d5c0f"
+    },
+    {
+      "name": "Measurement Data: F11",
+      "measures": [
+        {
+          "name": "UV260",
+          "unit": "ArbitraryUnit",
+          "value": [
+            [
+              3.0157
+            ]
+          ]
+        }
+      ],
+      "dimensions": [
+        {
+          "name": "time",
+          "unit": "SecondTime",
+          "scale": [
+            0.0
+          ]
+        },
+        {
+          "name": "wavelength",
+          "unit": "Nanometer",
+          "scale": [
+            260.0
+          ]
+        }
+      ],
+      "fk_method": "019df997-697a-73ab-b355-359e71d4b3a2",
+      "fk_sample": "019df997-6983-774a-b02f-ebc14d0deb6f"
+    },
+    {
+      "name": "Measurement Data: F11",
+      "measures": [
+        {
+          "name": "UV280",
+          "unit": "ArbitraryUnit",
+          "value": [
+            [
+              1.6283
+            ]
+          ]
+        }
+      ],
+      "dimensions": [
+        {
+          "name": "time",
+          "unit": "SecondTime",
+          "scale": [
+            0.0
+          ]
+        },
+        {
+          "name": "wavelength",
+          "unit": "Nanometer",
+          "scale": [
+            280.0
+          ]
+        }
+      ],
+      "fk_method": "019df997-697a-73ab-b355-359e71d4b3a2",
+      "fk_sample": "019df997-6983-774a-b02f-ebc14d0deb6f"
+    },
+    {
+      "name": "Measurement Data: F12",
+      "measures": [
+        {
+          "name": "UV260",
+          "unit": "ArbitraryUnit",
+          "value": [
+            [
+              3.0058
+            ]
+          ]
+        }
+      ],
+      "dimensions": [
+        {
+          "name": "time",
+          "unit": "SecondTime",
+          "scale": [
+            0.0
+          ]
+        },
+        {
+          "name": "wavelength",
+          "unit": "Nanometer",
+          "scale": [
+            260.0
+          ]
+        }
+      ],
+      "fk_method": "019df997-697a-73ab-b355-359e71d4b3a2",
+      "fk_sample": "019df997-6983-774a-b02f-ebc2d9eba953"
+    },
+    {
+      "name": "Measurement Data: F12",
+      "measures": [
+        {
+          "name": "UV280",
+          "unit": "ArbitraryUnit",
+          "value": [
+            [
+              1.4814
+            ]
+          ]
+        }
+      ],
+      "dimensions": [
+        {
+          "name": "time",
+          "unit": "SecondTime",
+          "scale": [
+            0.0
+          ]
+        },
+        {
+          "name": "wavelength",
+          "unit": "Nanometer",
+          "scale": [
+            280.0
+          ]
+        }
+      ],
+      "fk_method": "019df997-697a-73ab-b355-359e71d4b3a2",
+      "fk_sample": "019df997-6983-774a-b02f-ebc2d9eba953"
+    },
+    {
+      "name": "Measurement Data: G1",
+      "measures": [
+        {
+          "name": "UV260",
+          "unit": "ArbitraryUnit",
+          "value": [
+            [
+              2.9095
+            ]
+          ]
+        }
+      ],
+      "dimensions": [
+        {
+          "name": "time",
+          "unit": "SecondTime",
+          "scale": [
+            0.0
+          ]
+        },
+        {
+          "name": "wavelength",
+          "unit": "Nanometer",
+          "scale": [
+            260.0
+          ]
+        }
+      ],
+      "fk_method": "019df997-697a-73ab-b355-359e71d4b3a2",
+      "fk_sample": "019df997-6983-774a-b02f-ebc307e60508"
+    },
+    {
+      "name": "Measurement Data: G1",
+      "measures": [
+        {
+          "name": "UV280",
+          "unit": "ArbitraryUnit",
+          "value": [
+            [
+              1.6503
+            ]
+          ]
+        }
+      ],
+      "dimensions": [
+        {
+          "name": "time",
+          "unit": "SecondTime",
+          "scale": [
+            0.0
+          ]
+        },
+        {
+          "name": "wavelength",
+          "unit": "Nanometer",
+          "scale": [
+            280.0
+          ]
+        }
+      ],
+      "fk_method": "019df997-697a-73ab-b355-359e71d4b3a2",
+      "fk_sample": "019df997-6983-774a-b02f-ebc307e60508"
+    },
+    {
+      "name": "Measurement Data: G2",
+      "measures": [
+        {
+          "name": "UV260",
+          "unit": "ArbitraryUnit",
+          "value": [
+            [
+              2.956
+            ]
+          ]
+        }
+      ],
+      "dimensions": [
+        {
+          "name": "time",
+          "unit": "SecondTime",
+          "scale": [
+            0.0
+          ]
+        },
+        {
+          "name": "wavelength",
+          "unit": "Nanometer",
+          "scale": [
+            260.0
+          ]
+        }
+      ],
+      "fk_method": "019df997-697a-73ab-b355-359e71d4b3a2",
+      "fk_sample": "019df997-6983-774a-b02f-ebc481f0b306"
+    },
+    {
+      "name": "Measurement Data: G2",
+      "measures": [
+        {
+          "name": "UV280",
+          "unit": "ArbitraryUnit",
+          "value": [
+            [
+              1.5159
+            ]
+          ]
+        }
+      ],
+      "dimensions": [
+        {
+          "name": "time",
+          "unit": "SecondTime",
+          "scale": [
+            0.0
+          ]
+        },
+        {
+          "name": "wavelength",
+          "unit": "Nanometer",
+          "scale": [
+            280.0
+          ]
+        }
+      ],
+      "fk_method": "019df997-697a-73ab-b355-359e71d4b3a2",
+      "fk_sample": "019df997-6983-774a-b02f-ebc481f0b306"
+    },
+    {
+      "name": "Measurement Data: G3",
+      "measures": [
+        {
+          "name": "UV260",
+          "unit": "ArbitraryUnit",
+          "value": [
+            [
+              2.9907
+            ]
+          ]
+        }
+      ],
+      "dimensions": [
+        {
+          "name": "time",
+          "unit": "SecondTime",
+          "scale": [
+            0.0
+          ]
+        },
+        {
+          "name": "wavelength",
+          "unit": "Nanometer",
+          "scale": [
+            260.0
+          ]
+        }
+      ],
+      "fk_method": "019df997-697a-73ab-b355-359e71d4b3a2",
+      "fk_sample": "019df997-6983-774a-b02f-ebc5bce6d3ee"
+    },
+    {
+      "name": "Measurement Data: G3",
+      "measures": [
+        {
+          "name": "UV280",
+          "unit": "ArbitraryUnit",
+          "value": [
+            [
+              1.5321
+            ]
+          ]
+        }
+      ],
+      "dimensions": [
+        {
+          "name": "time",
+          "unit": "SecondTime",
+          "scale": [
+            0.0
+          ]
+        },
+        {
+          "name": "wavelength",
+          "unit": "Nanometer",
+          "scale": [
+            280.0
+          ]
+        }
+      ],
+      "fk_method": "019df997-697a-73ab-b355-359e71d4b3a2",
+      "fk_sample": "019df997-6983-774a-b02f-ebc5bce6d3ee"
+    },
+    {
+      "name": "Measurement Data: G4",
+      "measures": [
+        {
+          "name": "UV260",
+          "unit": "ArbitraryUnit",
+          "value": [
+            [
+              2.9891
+            ]
+          ]
+        }
+      ],
+      "dimensions": [
+        {
+          "name": "time",
+          "unit": "SecondTime",
+          "scale": [
+            0.0
+          ]
+        },
+        {
+          "name": "wavelength",
+          "unit": "Nanometer",
+          "scale": [
+            260.0
+          ]
+        }
+      ],
+      "fk_method": "019df997-697a-73ab-b355-359e71d4b3a2",
+      "fk_sample": "019df997-6983-774a-b02f-ebc6fb7244fc"
+    },
+    {
+      "name": "Measurement Data: G4",
+      "measures": [
+        {
+          "name": "UV280",
+          "unit": "ArbitraryUnit",
+          "value": [
+            [
+              1.5782
+            ]
+          ]
+        }
+      ],
+      "dimensions": [
+        {
+          "name": "time",
+          "unit": "SecondTime",
+          "scale": [
+            0.0
+          ]
+        },
+        {
+          "name": "wavelength",
+          "unit": "Nanometer",
+          "scale": [
+            280.0
+          ]
+        }
+      ],
+      "fk_method": "019df997-697a-73ab-b355-359e71d4b3a2",
+      "fk_sample": "019df997-6983-774a-b02f-ebc6fb7244fc"
+    },
+    {
+      "name": "Measurement Data: G5",
+      "measures": [
+        {
+          "name": "UV260",
+          "unit": "ArbitraryUnit",
+          "value": [
+            [
+              2.9792
+            ]
+          ]
+        }
+      ],
+      "dimensions": [
+        {
+          "name": "time",
+          "unit": "SecondTime",
+          "scale": [
+            0.0
+          ]
+        },
+        {
+          "name": "wavelength",
+          "unit": "Nanometer",
+          "scale": [
+            260.0
+          ]
+        }
+      ],
+      "fk_method": "019df997-697a-73ab-b355-359e71d4b3a2",
+      "fk_sample": "019df997-6984-7771-b7fb-bdfaf1a2ece0"
+    },
+    {
+      "name": "Measurement Data: G5",
+      "measures": [
+        {
+          "name": "UV280",
+          "unit": "ArbitraryUnit",
+          "value": [
+            [
+              1.5796
+            ]
+          ]
+        }
+      ],
+      "dimensions": [
+        {
+          "name": "time",
+          "unit": "SecondTime",
+          "scale": [
+            0.0
+          ]
+        },
+        {
+          "name": "wavelength",
+          "unit": "Nanometer",
+          "scale": [
+            280.0
+          ]
+        }
+      ],
+      "fk_method": "019df997-697a-73ab-b355-359e71d4b3a2",
+      "fk_sample": "019df997-6984-7771-b7fb-bdfaf1a2ece0"
+    },
+    {
+      "name": "Measurement Data: G6",
+      "measures": [
+        {
+          "name": "UV260",
+          "unit": "ArbitraryUnit",
+          "value": [
+            [
+              2.9743
+            ]
+          ]
+        }
+      ],
+      "dimensions": [
+        {
+          "name": "time",
+          "unit": "SecondTime",
+          "scale": [
+            0.0
+          ]
+        },
+        {
+          "name": "wavelength",
+          "unit": "Nanometer",
+          "scale": [
+            260.0
+          ]
+        }
+      ],
+      "fk_method": "019df997-697a-73ab-b355-359e71d4b3a2",
+      "fk_sample": "019df997-6984-7771-b7fb-bdfb0a2e0798"
+    },
+    {
+      "name": "Measurement Data: G6",
+      "measures": [
+        {
+          "name": "UV280",
+          "unit": "ArbitraryUnit",
+          "value": [
+            [
+              1.5395
+            ]
+          ]
+        }
+      ],
+      "dimensions": [
+        {
+          "name": "time",
+          "unit": "SecondTime",
+          "scale": [
+            0.0
+          ]
+        },
+        {
+          "name": "wavelength",
+          "unit": "Nanometer",
+          "scale": [
+            280.0
+          ]
+        }
+      ],
+      "fk_method": "019df997-697a-73ab-b355-359e71d4b3a2",
+      "fk_sample": "019df997-6984-7771-b7fb-bdfb0a2e0798"
+    },
+    {
+      "name": "Measurement Data: G7",
+      "measures": [
+        {
+          "name": "UV260",
+          "unit": "ArbitraryUnit",
+          "value": [
+            [
+              2.9927
+            ]
+          ]
+        }
+      ],
+      "dimensions": [
+        {
+          "name": "time",
+          "unit": "SecondTime",
+          "scale": [
+            0.0
+          ]
+        },
+        {
+          "name": "wavelength",
+          "unit": "Nanometer",
+          "scale": [
+            260.0
+          ]
+        }
+      ],
+      "fk_method": "019df997-697a-73ab-b355-359e71d4b3a2",
+      "fk_sample": "019df997-6984-7771-b7fb-bdfc84bedfe3"
+    },
+    {
+      "name": "Measurement Data: G7",
+      "measures": [
+        {
+          "name": "UV280",
+          "unit": "ArbitraryUnit",
+          "value": [
+            [
+              1.5961
+            ]
+          ]
+        }
+      ],
+      "dimensions": [
+        {
+          "name": "time",
+          "unit": "SecondTime",
+          "scale": [
+            0.0
+          ]
+        },
+        {
+          "name": "wavelength",
+          "unit": "Nanometer",
+          "scale": [
+            280.0
+          ]
+        }
+      ],
+      "fk_method": "019df997-697a-73ab-b355-359e71d4b3a2",
+      "fk_sample": "019df997-6984-7771-b7fb-bdfc84bedfe3"
+    },
+    {
+      "name": "Measurement Data: G8",
+      "measures": [
+        {
+          "name": "UV260",
+          "unit": "ArbitraryUnit",
+          "value": [
+            [
+              3.0236
+            ]
+          ]
+        }
+      ],
+      "dimensions": [
+        {
+          "name": "time",
+          "unit": "SecondTime",
+          "scale": [
+            0.0
+          ]
+        },
+        {
+          "name": "wavelength",
+          "unit": "Nanometer",
+          "scale": [
+            260.0
+          ]
+        }
+      ],
+      "fk_method": "019df997-697a-73ab-b355-359e71d4b3a2",
+      "fk_sample": "019df997-6984-7771-b7fb-bdfd67cc3a9a"
+    },
+    {
+      "name": "Measurement Data: G8",
+      "measures": [
+        {
+          "name": "UV280",
+          "unit": "ArbitraryUnit",
+          "value": [
+            [
+              1.5202
+            ]
+          ]
+        }
+      ],
+      "dimensions": [
+        {
+          "name": "time",
+          "unit": "SecondTime",
+          "scale": [
+            0.0
+          ]
+        },
+        {
+          "name": "wavelength",
+          "unit": "Nanometer",
+          "scale": [
+            280.0
+          ]
+        }
+      ],
+      "fk_method": "019df997-697a-73ab-b355-359e71d4b3a2",
+      "fk_sample": "019df997-6984-7771-b7fb-bdfd67cc3a9a"
+    },
+    {
+      "name": "Measurement Data: G9",
+      "measures": [
+        {
+          "name": "UV260",
+          "unit": "ArbitraryUnit",
+          "value": [
+            [
+              3.0459
+            ]
+          ]
+        }
+      ],
+      "dimensions": [
+        {
+          "name": "time",
+          "unit": "SecondTime",
+          "scale": [
+            0.0
+          ]
+        },
+        {
+          "name": "wavelength",
+          "unit": "Nanometer",
+          "scale": [
+            260.0
+          ]
+        }
+      ],
+      "fk_method": "019df997-697a-73ab-b355-359e71d4b3a2",
+      "fk_sample": "019df997-6984-7771-b7fb-bdfe74c98a0f"
+    },
+    {
+      "name": "Measurement Data: G9",
+      "measures": [
+        {
+          "name": "UV280",
+          "unit": "ArbitraryUnit",
+          "value": [
+            [
+              1.6271
+            ]
+          ]
+        }
+      ],
+      "dimensions": [
+        {
+          "name": "time",
+          "unit": "SecondTime",
+          "scale": [
+            0.0
+          ]
+        },
+        {
+          "name": "wavelength",
+          "unit": "Nanometer",
+          "scale": [
+            280.0
+          ]
+        }
+      ],
+      "fk_method": "019df997-697a-73ab-b355-359e71d4b3a2",
+      "fk_sample": "019df997-6984-7771-b7fb-bdfe74c98a0f"
+    },
+    {
+      "name": "Measurement Data: G10",
+      "measures": [
+        {
+          "name": "UV260",
+          "unit": "ArbitraryUnit",
+          "value": [
+            [
+              3.0259
+            ]
+          ]
+        }
+      ],
+      "dimensions": [
+        {
+          "name": "time",
+          "unit": "SecondTime",
+          "scale": [
+            0.0
+          ]
+        },
+        {
+          "name": "wavelength",
+          "unit": "Nanometer",
+          "scale": [
+            260.0
+          ]
+        }
+      ],
+      "fk_method": "019df997-697a-73ab-b355-359e71d4b3a2",
+      "fk_sample": "019df997-6984-7771-b7fb-bdffa728c944"
+    },
+    {
+      "name": "Measurement Data: G10",
+      "measures": [
+        {
+          "name": "UV280",
+          "unit": "ArbitraryUnit",
+          "value": [
+            [
+              1.547
+            ]
+          ]
+        }
+      ],
+      "dimensions": [
+        {
+          "name": "time",
+          "unit": "SecondTime",
+          "scale": [
+            0.0
+          ]
+        },
+        {
+          "name": "wavelength",
+          "unit": "Nanometer",
+          "scale": [
+            280.0
+          ]
+        }
+      ],
+      "fk_method": "019df997-697a-73ab-b355-359e71d4b3a2",
+      "fk_sample": "019df997-6984-7771-b7fb-bdffa728c944"
+    },
+    {
+      "name": "Measurement Data: G11",
+      "measures": [
+        {
+          "name": "UV260",
+          "unit": "ArbitraryUnit",
+          "value": [
+            [
+              3.0592
+            ]
+          ]
+        }
+      ],
+      "dimensions": [
+        {
+          "name": "time",
+          "unit": "SecondTime",
+          "scale": [
+            0.0
+          ]
+        },
+        {
+          "name": "wavelength",
+          "unit": "Nanometer",
+          "scale": [
+            260.0
+          ]
+        }
+      ],
+      "fk_method": "019df997-697a-73ab-b355-359e71d4b3a2",
+      "fk_sample": "019df997-6984-7771-b7fb-be00193cfca0"
+    },
+    {
+      "name": "Measurement Data: G11",
+      "measures": [
+        {
+          "name": "UV280",
+          "unit": "ArbitraryUnit",
+          "value": [
+            [
+              1.6671
+            ]
+          ]
+        }
+      ],
+      "dimensions": [
+        {
+          "name": "time",
+          "unit": "SecondTime",
+          "scale": [
+            0.0
+          ]
+        },
+        {
+          "name": "wavelength",
+          "unit": "Nanometer",
+          "scale": [
+            280.0
+          ]
+        }
+      ],
+      "fk_method": "019df997-697a-73ab-b355-359e71d4b3a2",
+      "fk_sample": "019df997-6984-7771-b7fb-be00193cfca0"
+    },
+    {
+      "name": "Measurement Data: G12",
+      "measures": [
+        {
+          "name": "UV260",
+          "unit": "ArbitraryUnit",
+          "value": [
+            [
+              3.0125
+            ]
+          ]
+        }
+      ],
+      "dimensions": [
+        {
+          "name": "time",
+          "unit": "SecondTime",
+          "scale": [
+            0.0
+          ]
+        },
+        {
+          "name": "wavelength",
+          "unit": "Nanometer",
+          "scale": [
+            260.0
+          ]
+        }
+      ],
+      "fk_method": "019df997-697a-73ab-b355-359e71d4b3a2",
+      "fk_sample": "019df997-6984-7771-b7fb-be01da89c54b"
+    },
+    {
+      "name": "Measurement Data: G12",
+      "measures": [
+        {
+          "name": "UV280",
+          "unit": "ArbitraryUnit",
+          "value": [
+            [
+              1.6075
+            ]
+          ]
+        }
+      ],
+      "dimensions": [
+        {
+          "name": "time",
+          "unit": "SecondTime",
+          "scale": [
+            0.0
+          ]
+        },
+        {
+          "name": "wavelength",
+          "unit": "Nanometer",
+          "scale": [
+            280.0
+          ]
+        }
+      ],
+      "fk_method": "019df997-697a-73ab-b355-359e71d4b3a2",
+      "fk_sample": "019df997-6984-7771-b7fb-be01da89c54b"
+    },
+    {
+      "name": "Measurement Data: H1",
+      "measures": [
+        {
+          "name": "UV260",
+          "unit": "ArbitraryUnit",
+          "value": [
+            [
+              2.9446
+            ]
+          ]
+        }
+      ],
+      "dimensions": [
+        {
+          "name": "time",
+          "unit": "SecondTime",
+          "scale": [
+            0.0
+          ]
+        },
+        {
+          "name": "wavelength",
+          "unit": "Nanometer",
+          "scale": [
+            260.0
+          ]
+        }
+      ],
+      "fk_method": "019df997-697a-73ab-b355-359e71d4b3a2",
+      "fk_sample": "019df997-6984-7771-b7fb-be02e1b6092b"
+    },
+    {
+      "name": "Measurement Data: H1",
+      "measures": [
+        {
+          "name": "UV280",
+          "unit": "ArbitraryUnit",
+          "value": [
+            [
+              1.6836
+            ]
+          ]
+        }
+      ],
+      "dimensions": [
+        {
+          "name": "time",
+          "unit": "SecondTime",
+          "scale": [
+            0.0
+          ]
+        },
+        {
+          "name": "wavelength",
+          "unit": "Nanometer",
+          "scale": [
+            280.0
+          ]
+        }
+      ],
+      "fk_method": "019df997-697a-73ab-b355-359e71d4b3a2",
+      "fk_sample": "019df997-6984-7771-b7fb-be02e1b6092b"
+    },
+    {
+      "name": "Measurement Data: H2",
+      "measures": [
+        {
+          "name": "UV260",
+          "unit": "ArbitraryUnit",
+          "value": [
+            [
+              3.0153
+            ]
+          ]
+        }
+      ],
+      "dimensions": [
+        {
+          "name": "time",
+          "unit": "SecondTime",
+          "scale": [
+            0.0
+          ]
+        },
+        {
+          "name": "wavelength",
+          "unit": "Nanometer",
+          "scale": [
+            260.0
+          ]
+        }
+      ],
+      "fk_method": "019df997-697a-73ab-b355-359e71d4b3a2",
+      "fk_sample": "019df997-6984-7771-b7fb-be03a36692b3"
+    },
+    {
+      "name": "Measurement Data: H2",
+      "measures": [
+        {
+          "name": "UV280",
+          "unit": "ArbitraryUnit",
+          "value": [
+            [
+              1.5656
+            ]
+          ]
+        }
+      ],
+      "dimensions": [
+        {
+          "name": "time",
+          "unit": "SecondTime",
+          "scale": [
+            0.0
+          ]
+        },
+        {
+          "name": "wavelength",
+          "unit": "Nanometer",
+          "scale": [
+            280.0
+          ]
+        }
+      ],
+      "fk_method": "019df997-697a-73ab-b355-359e71d4b3a2",
+      "fk_sample": "019df997-6984-7771-b7fb-be03a36692b3"
+    },
+    {
+      "name": "Measurement Data: H3",
+      "measures": [
+        {
+          "name": "UV260",
+          "unit": "ArbitraryUnit",
+          "value": [
+            [
+              2.9934
+            ]
+          ]
+        }
+      ],
+      "dimensions": [
+        {
+          "name": "time",
+          "unit": "SecondTime",
+          "scale": [
+            0.0
+          ]
+        },
+        {
+          "name": "wavelength",
+          "unit": "Nanometer",
+          "scale": [
+            260.0
+          ]
+        }
+      ],
+      "fk_method": "019df997-697a-73ab-b355-359e71d4b3a2",
+      "fk_sample": "019df997-6984-7771-b7fb-be047f57fc34"
+    },
+    {
+      "name": "Measurement Data: H3",
+      "measures": [
+        {
+          "name": "UV280",
+          "unit": "ArbitraryUnit",
+          "value": [
+            [
+              1.642
+            ]
+          ]
+        }
+      ],
+      "dimensions": [
+        {
+          "name": "time",
+          "unit": "SecondTime",
+          "scale": [
+            0.0
+          ]
+        },
+        {
+          "name": "wavelength",
+          "unit": "Nanometer",
+          "scale": [
+            280.0
+          ]
+        }
+      ],
+      "fk_method": "019df997-697a-73ab-b355-359e71d4b3a2",
+      "fk_sample": "019df997-6984-7771-b7fb-be047f57fc34"
+    },
+    {
+      "name": "Measurement Data: H4",
+      "measures": [
+        {
+          "name": "UV260",
+          "unit": "ArbitraryUnit",
+          "value": [
+            [
+              3.024
+            ]
+          ]
+        }
+      ],
+      "dimensions": [
+        {
+          "name": "time",
+          "unit": "SecondTime",
+          "scale": [
+            0.0
+          ]
+        },
+        {
+          "name": "wavelength",
+          "unit": "Nanometer",
+          "scale": [
+            260.0
+          ]
+        }
+      ],
+      "fk_method": "019df997-697a-73ab-b355-359e71d4b3a2",
+      "fk_sample": "019df997-6984-7771-b7fb-be052746a82f"
+    },
+    {
+      "name": "Measurement Data: H4",
+      "measures": [
+        {
+          "name": "UV280",
+          "unit": "ArbitraryUnit",
+          "value": [
+            [
+              1.4963
+            ]
+          ]
+        }
+      ],
+      "dimensions": [
+        {
+          "name": "time",
+          "unit": "SecondTime",
+          "scale": [
+            0.0
+          ]
+        },
+        {
+          "name": "wavelength",
+          "unit": "Nanometer",
+          "scale": [
+            280.0
+          ]
+        }
+      ],
+      "fk_method": "019df997-697a-73ab-b355-359e71d4b3a2",
+      "fk_sample": "019df997-6984-7771-b7fb-be052746a82f"
+    },
+    {
+      "name": "Measurement Data: H5",
+      "measures": [
+        {
+          "name": "UV260",
+          "unit": "ArbitraryUnit",
+          "value": [
+            [
+              3.0273
+            ]
+          ]
+        }
+      ],
+      "dimensions": [
+        {
+          "name": "time",
+          "unit": "SecondTime",
+          "scale": [
+            0.0
+          ]
+        },
+        {
+          "name": "wavelength",
+          "unit": "Nanometer",
+          "scale": [
+            260.0
+          ]
+        }
+      ],
+      "fk_method": "019df997-697a-73ab-b355-359e71d4b3a2",
+      "fk_sample": "019df997-6985-7118-aa69-17b90127ae00"
+    },
+    {
+      "name": "Measurement Data: H5",
+      "measures": [
+        {
+          "name": "UV280",
+          "unit": "ArbitraryUnit",
+          "value": [
+            [
+              1.6988
+            ]
+          ]
+        }
+      ],
+      "dimensions": [
+        {
+          "name": "time",
+          "unit": "SecondTime",
+          "scale": [
+            0.0
+          ]
+        },
+        {
+          "name": "wavelength",
+          "unit": "Nanometer",
+          "scale": [
+            280.0
+          ]
+        }
+      ],
+      "fk_method": "019df997-697a-73ab-b355-359e71d4b3a2",
+      "fk_sample": "019df997-6985-7118-aa69-17b90127ae00"
+    },
+    {
+      "name": "Measurement Data: H6",
+      "measures": [
+        {
+          "name": "UV260",
+          "unit": "ArbitraryUnit",
+          "value": [
+            [
+              2.997
+            ]
+          ]
+        }
+      ],
+      "dimensions": [
+        {
+          "name": "time",
+          "unit": "SecondTime",
+          "scale": [
+            0.0
+          ]
+        },
+        {
+          "name": "wavelength",
+          "unit": "Nanometer",
+          "scale": [
+            260.0
+          ]
+        }
+      ],
+      "fk_method": "019df997-697a-73ab-b355-359e71d4b3a2",
+      "fk_sample": "019df997-6985-7118-aa69-17ba6ba9ed7c"
+    },
+    {
+      "name": "Measurement Data: H6",
+      "measures": [
+        {
+          "name": "UV280",
+          "unit": "ArbitraryUnit",
+          "value": [
+            [
+              1.6558
+            ]
+          ]
+        }
+      ],
+      "dimensions": [
+        {
+          "name": "time",
+          "unit": "SecondTime",
+          "scale": [
+            0.0
+          ]
+        },
+        {
+          "name": "wavelength",
+          "unit": "Nanometer",
+          "scale": [
+            280.0
+          ]
+        }
+      ],
+      "fk_method": "019df997-697a-73ab-b355-359e71d4b3a2",
+      "fk_sample": "019df997-6985-7118-aa69-17ba6ba9ed7c"
+    },
+    {
+      "name": "Measurement Data: H7",
+      "measures": [
+        {
+          "name": "UV260",
+          "unit": "ArbitraryUnit",
+          "value": [
+            [
+              2.9717
+            ]
+          ]
+        }
+      ],
+      "dimensions": [
+        {
+          "name": "time",
+          "unit": "SecondTime",
+          "scale": [
+            0.0
+          ]
+        },
+        {
+          "name": "wavelength",
+          "unit": "Nanometer",
+          "scale": [
+            260.0
+          ]
+        }
+      ],
+      "fk_method": "019df997-697a-73ab-b355-359e71d4b3a2",
+      "fk_sample": "019df997-6985-7118-aa69-17bb098348af"
+    },
+    {
+      "name": "Measurement Data: H7",
+      "measures": [
+        {
+          "name": "UV280",
+          "unit": "ArbitraryUnit",
+          "value": [
+            [
+              1.5782
+            ]
+          ]
+        }
+      ],
+      "dimensions": [
+        {
+          "name": "time",
+          "unit": "SecondTime",
+          "scale": [
+            0.0
+          ]
+        },
+        {
+          "name": "wavelength",
+          "unit": "Nanometer",
+          "scale": [
+            280.0
+          ]
+        }
+      ],
+      "fk_method": "019df997-697a-73ab-b355-359e71d4b3a2",
+      "fk_sample": "019df997-6985-7118-aa69-17bb098348af"
+    },
+    {
+      "name": "Measurement Data: H8",
+      "measures": [
+        {
+          "name": "UV260",
+          "unit": "ArbitraryUnit",
+          "value": [
+            [
+              3.0259
+            ]
+          ]
+        }
+      ],
+      "dimensions": [
+        {
+          "name": "time",
+          "unit": "SecondTime",
+          "scale": [
+            0.0
+          ]
+        },
+        {
+          "name": "wavelength",
+          "unit": "Nanometer",
+          "scale": [
+            260.0
+          ]
+        }
+      ],
+      "fk_method": "019df997-697a-73ab-b355-359e71d4b3a2",
+      "fk_sample": "019df997-6985-7118-aa69-17bccfb09178"
+    },
+    {
+      "name": "Measurement Data: H8",
+      "measures": [
+        {
+          "name": "UV280",
+          "unit": "ArbitraryUnit",
+          "value": [
+            [
+              1.5502
+            ]
+          ]
+        }
+      ],
+      "dimensions": [
+        {
+          "name": "time",
+          "unit": "SecondTime",
+          "scale": [
+            0.0
+          ]
+        },
+        {
+          "name": "wavelength",
+          "unit": "Nanometer",
+          "scale": [
+            280.0
+          ]
+        }
+      ],
+      "fk_method": "019df997-697a-73ab-b355-359e71d4b3a2",
+      "fk_sample": "019df997-6985-7118-aa69-17bccfb09178"
+    },
+    {
+      "name": "Measurement Data: H9",
+      "measures": [
+        {
+          "name": "UV260",
+          "unit": "ArbitraryUnit",
+          "value": [
+            [
+              3.0316
+            ]
+          ]
+        }
+      ],
+      "dimensions": [
+        {
+          "name": "time",
+          "unit": "SecondTime",
+          "scale": [
+            0.0
+          ]
+        },
+        {
+          "name": "wavelength",
+          "unit": "Nanometer",
+          "scale": [
+            260.0
+          ]
+        }
+      ],
+      "fk_method": "019df997-697a-73ab-b355-359e71d4b3a2",
+      "fk_sample": "019df997-6985-7118-aa69-17bd2e5b3b54"
+    },
+    {
+      "name": "Measurement Data: H9",
+      "measures": [
+        {
+          "name": "UV280",
+          "unit": "ArbitraryUnit",
+          "value": [
+            [
+              1.5539
+            ]
+          ]
+        }
+      ],
+      "dimensions": [
+        {
+          "name": "time",
+          "unit": "SecondTime",
+          "scale": [
+            0.0
+          ]
+        },
+        {
+          "name": "wavelength",
+          "unit": "Nanometer",
+          "scale": [
+            280.0
+          ]
+        }
+      ],
+      "fk_method": "019df997-697a-73ab-b355-359e71d4b3a2",
+      "fk_sample": "019df997-6985-7118-aa69-17bd2e5b3b54"
+    },
+    {
+      "name": "Measurement Data: H10",
+      "measures": [
+        {
+          "name": "UV260",
+          "unit": "ArbitraryUnit",
+          "value": [
+            [
+              3.0207
+            ]
+          ]
+        }
+      ],
+      "dimensions": [
+        {
+          "name": "time",
+          "unit": "SecondTime",
+          "scale": [
+            0.0
+          ]
+        },
+        {
+          "name": "wavelength",
+          "unit": "Nanometer",
+          "scale": [
+            260.0
+          ]
+        }
+      ],
+      "fk_method": "019df997-697a-73ab-b355-359e71d4b3a2",
+      "fk_sample": "019df997-6985-7118-aa69-17be0cbc73ac"
+    },
+    {
+      "name": "Measurement Data: H10",
+      "measures": [
+        {
+          "name": "UV280",
+          "unit": "ArbitraryUnit",
+          "value": [
+            [
+              1.4815
+            ]
+          ]
+        }
+      ],
+      "dimensions": [
+        {
+          "name": "time",
+          "unit": "SecondTime",
+          "scale": [
+            0.0
+          ]
+        },
+        {
+          "name": "wavelength",
+          "unit": "Nanometer",
+          "scale": [
+            280.0
+          ]
+        }
+      ],
+      "fk_method": "019df997-697a-73ab-b355-359e71d4b3a2",
+      "fk_sample": "019df997-6985-7118-aa69-17be0cbc73ac"
+    },
+    {
+      "name": "Measurement Data: H11",
+      "measures": [
+        {
+          "name": "UV260",
+          "unit": "ArbitraryUnit",
+          "value": [
+            [
+              3.0067
+            ]
+          ]
+        }
+      ],
+      "dimensions": [
+        {
+          "name": "time",
+          "unit": "SecondTime",
+          "scale": [
+            0.0
+          ]
+        },
+        {
+          "name": "wavelength",
+          "unit": "Nanometer",
+          "scale": [
+            260.0
+          ]
+        }
+      ],
+      "fk_method": "019df997-697a-73ab-b355-359e71d4b3a2",
+      "fk_sample": "019df997-6985-7118-aa69-17bf53e3a081"
+    },
+    {
+      "name": "Measurement Data: H11",
+      "measures": [
+        {
+          "name": "UV280",
+          "unit": "ArbitraryUnit",
+          "value": [
+            [
+              1.5109
+            ]
+          ]
+        }
+      ],
+      "dimensions": [
+        {
+          "name": "time",
+          "unit": "SecondTime",
+          "scale": [
+            0.0
+          ]
+        },
+        {
+          "name": "wavelength",
+          "unit": "Nanometer",
+          "scale": [
+            280.0
+          ]
+        }
+      ],
+      "fk_method": "019df997-697a-73ab-b355-359e71d4b3a2",
+      "fk_sample": "019df997-6985-7118-aa69-17bf53e3a081"
+    },
+    {
+      "name": "Measurement Data: H12",
+      "measures": [
+        {
+          "name": "UV260",
+          "unit": "ArbitraryUnit",
+          "value": [
+            [
+              2.9957
+            ]
+          ]
+        }
+      ],
+      "dimensions": [
+        {
+          "name": "time",
+          "unit": "SecondTime",
+          "scale": [
+            0.0
+          ]
+        },
+        {
+          "name": "wavelength",
+          "unit": "Nanometer",
+          "scale": [
+            260.0
+          ]
+        }
+      ],
+      "fk_method": "019df997-697a-73ab-b355-359e71d4b3a2",
+      "fk_sample": "019df997-6985-7118-aa69-17c0e07d9eac"
+    },
+    {
+      "name": "Measurement Data: H12",
+      "measures": [
+        {
+          "name": "UV280",
+          "unit": "ArbitraryUnit",
+          "value": [
+            [
+              1.5952
+            ]
+          ]
+        }
+      ],
+      "dimensions": [
+        {
+          "name": "time",
+          "unit": "SecondTime",
+          "scale": [
+            0.0
+          ]
+        },
+        {
+          "name": "wavelength",
+          "unit": "Nanometer",
+          "scale": [
+            280.0
+          ]
+        }
+      ],
+      "fk_method": "019df997-697a-73ab-b355-359e71d4b3a2",
+      "fk_sample": "019df997-6985-7118-aa69-17c0e07d9eac"
+    }
+  ],
+  "datacube_metadata": []
+}
